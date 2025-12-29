@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Search Results - MobiSearch</title>
+</head>
+<body>
+    <h1>Search Results - MobiSearch</h1>
+    
+    <h2>Results for: "{{ query }}"</h2>
+    <p>Found {{ results|length }} results</p>
+    {% if results %}
+        {% for result in results %}
+            <div>
+                <a href="{{ results.url }}" target ="_blank">
+                    {{ result.url }}
+                </a>
+                <p>Document = {{ result.doc_id }}</p>
+                <p>Relevance: {{( result.score)|round|int }}</p>
+            </div>
+        {% endfor %}
+    {% else %}
+        <p>No results found. Try a different search term.</p>
+    {% endif %}
+
+    <a href= "{{ url_for('home') }}">
+        <button type="button">Home Page</button>
+    </a>
+</body>
+</html>

@@ -1,5 +1,4 @@
 import os
-import json
 import re
 from collections import defaultdict
 from math import log
@@ -7,18 +6,68 @@ from math import log
 # CONFIGURATION
 DATA_DIR = "data"
 INDEX_FILE = "index.json"
-STOP_WORDS = {"the", "a", "an", "and", "or", "but", "in", "on", "at", "to", 
-                 "for", "of", "with", "is", "are", "was", "were", "be", 
-                 "been", "being", "have", "has", "had", "do", "does", "did", "this", "that", "it"}
+STOP_WORDS = {
+    # Articles
+    "the", "a", "an",
+    
+    # Conjunctions
+    "and", "or", "but", "if", "because",
+    
+    # Prepositions
+    "in", "on", "at", "to", "for", "of", "with", "by", "from",
+    "about", "into", "through", "during", "before", "after",
+    "above", "below", "between", "under",
+    
+    # Be verbs
+    "is", "are", "was", "were", "be", "been", "being",
+    
+    # Have verbs
+    "have", "has", "had",
+    
+    # Do verbs
+    "do", "does", "did",
+    
+    # Pronouns
+    "i", "you", "he", "she", "it", "we", "they",
+    "this", "that", "these", "those",
+    "my", "your", "his", "her", "its", "our", "their",
+    
+    # Common words
+    "will", "would", "could", "should", "can", "may", "might",
+    "just", "also", "very", "really", "only", "even",
+    "more", "most", "other", "some", "any", "all", "each",
+    "no", "not", "so", "than", "too", "now", "here", "there"
+}
+
+# DO NOT include: car, vehicle, electric, battery, engine, motor, etc.
+# These are words you WANT to find!
+AUTOMOTIVE_KEYWORDS = [
+    'electric', 'vehicle', 'car', 'battery', 
+    'automobile', 'automotive', 'ev', 'tesla', 
+    'ford', 'gm', 'toyota', 'nissan', 'charging',
+    'motor', 'engineering', 'technology'
+]
+BLOCKED_DOMAINS = ['quotes.toscrape.com', 'toscrape.com']
+
 
 def load_documents():
     documents = {}
     for filename in os.listdir("data"):
         if filename.endswith(".txt"):
+            filepath = os.path.join(DATA_DIR, filename)
             with open("data/"+ filename, "r", encoding="utf-8") as f:
                 content = f.read()
-            documents[filename] = content.split('\n\n', 1)
+            parts = content.split('\n\n', 1)
+            if any(domain in parts[0] for domain in BLOCKED_DOMAINS):
+                continue
+            if len(parts) == 2 and is_valid_automotive_content(parts[1]):
+                documents[filename.replace('.txt', '')] = parts
     return documents 
+
+def is_valid_automotive_content(text):
+    text_lower = text.lower()
+    keyword_count = sum(text_lower.count(keyword) for keyword in AUTOMOTIVE_KEYWORDS)
+    return keyword_count >= 5
 
 def process_text(text):
     lower = text.lower()
@@ -40,192 +89,162 @@ def build_inverted_index(documents):
     return index
 
 def calculate_tf_idf(word, words_list, inverted_index, total_docs):
-    tf = 0
-    if words_list:
-        for item in words_list:
-            if item == word:
-                tf+=1
-        tf = tf/len(words_list)
+    tf = words_list.count(word) / len(words_list) if words_list else 0
+    
     docs_with_word = inverted_index.get(word, [])
-    length_docs = len(docs_with_word)
-    idf = 0
-    if docs_with_word:
-        idf = log(total_docs/length_docs)
+    idf = log(total_docs / (len(docs_with_word) + 1))  
     
     return tf * idf
 
 def search(query, documents, inverted_index):
     query_words = process_text(query)
     candidate_docs = set()
+
     for word in query_words:
         candidate_docs.update(inverted_index.get(word, []))
+    
+    # More flexible matching
     results = []
-    for doc_id in candidate_docs:
+    for doc_id, doc_content in documents.items():
+        url = documents[doc_id][0]
+        
+        # Skip results from blocked domains
+        if any(domain in url for domain in BLOCKED_DOMAINS):
+            continue
+
         doc_text = documents[doc_id][1]
-        doc_words = process_text(doc_text)
+        doc_words = process_text(doc_content[1])
         total_score = 0
+        
         for word in query_words:
             score = calculate_tf_idf(word, doc_words, inverted_index, len(documents))
             total_score += score
-        results.append({
-            "doc_id": doc_id,
-            "url": documents[doc_id][0],
-            "score": total_score
-        })
+        
+        if total_score > 0:
+            results.append({
+                 "doc_id": doc_id,
+                  "url": doc_content[0],
+                 "score": total_score
+            })
     results.sort(key=lambda x: x["score"], reverse=True)
+
+    if results:
+        max_score = results[0]["score"]
+        if max_score > 0:
+            for result in results:
+                # Convert to percentage, round to integer
+                result["score"] = round((result["score"] / max_score) * 100)
+        # Sort by best matches
     return results
 
-if __name__ == "__main__":
+
+def debug_search_engine(docs, index, query):
+    print("\n" + "="*50)
+    print(f"🔍 Debugging Search for Query: '{query}'")
     print("="*50)
-    print("TEST 1: Loading Documents")
-    docs = load_documents()
-    print(f"✓ Loaded {len(docs)} documents")
+
+    # 1. Tokenization Check
+    print("\n📝 TOKENIZATION CHECK:")
+    processed_query = process_text(query)
+    print(f"Raw Query: '{query}'")
+    print(f"Processed Query Words: {processed_query}")
+
+    # 2. Document Content Analysis
+    print("\n📄 DOCUMENT ANALYSIS:")
+    print(f"Total Documents: {len(docs)}")
     
-    # Test 2: Process text (tokenize + stopwords)
-    print("\n" + "="*50)
-    print("TEST 2: Text Processing")
-    test_text = "The quick brown fox is a TEST! Python programming."
-    processed = process_text(test_text)
-    print(f"Input: {test_text}")
-    print(f"Output: {processed}")
-    print(f"✓ Removed stopwords and punctuation")
-    
-    # Test 3: Build inverted index
-    print("\n" + "="*50)
-    print("TEST 3: Building Inverted Index")
-    index = build_inverted_index(docs)
-    print(f"✓ Index contains {len(index)} unique words")
-    
-    # Show a sample of the index
-    sample_words = list(index.keys())[:5]
-    for word in sample_words:
-        doc_count = len(index[word])
-        print(f"  '{word}' appears in {doc_count} documents")
-    
-    # Test 4: Check a specific word in the index
-    print("\n" + "="*50)
-    print("TEST 4: Looking Up a Word")
-    test_word = "quotes"  # Change this to any word you expect
-    if test_word in index:
-        docs_with_word = index[test_word]
-        print(f"✓ '{test_word}' found in {len(docs_with_word)} documents:")
-        print(f"  {docs_with_word[:3]}...")  # Show first 3
-    else:
-        print(f"✗ '{test_word}' not found in index")
-    
-    # Test 5: Calculate TF-IDF
-    print("\n" + "="*50)
-    print("TEST 5: TF-IDF Calculation")
-    
-    # Get a document to test with
-    first_doc_id = list(docs.keys())[0]
-    first_doc_text = docs[first_doc_id][1]
-    first_doc_words = process_text(first_doc_text)
-    
-    # Pick a word that appears in this document
-    test_word = first_doc_words[10] if len(first_doc_words) > 10 else first_doc_words[0]
-    
-    tfidf_score = calculate_tf_idf(
-        test_word, 
-        first_doc_words, 
-        index, 
-        len(docs)
-    )
-    
-    print(f"Word: '{test_word}'")
-    print(f"Appears {first_doc_words.count(test_word)} times in document")
-    print(f"Document has {len(first_doc_words)} total words")
-    print(f"Word appears in {len(index.get(test_word, []))} documents total")
-    print(f"✓ TF-IDF Score: {tfidf_score:.4f}")
-    
-    # Test 6: Test with a word that doesn't exist
-    print("\n" + "="*50)
-    print("TEST 6: Non-existent Word")
-    fake_word = "xyzabc123"
-    score = calculate_tf_idf(fake_word, first_doc_words, index, len(docs))
-    print(f"TF-IDF for non-existent word '{fake_word}': {score}")
-    print(f"✓ Should be 0: {score == 0}")
-    
-    print("\n" + "="*50)
-    # Test 7: Basic Single-Word Search
-    print("\n" + "="*50)
-    print("TEST 7: Basic Search - Single Word")
-    search_query = "quotes"  # Change to a word you expect to find
-    results = search(search_query, docs, index)
-    print(f"Search query: '{search_query}'")
-    print(f"✓ Found {len(results)} results")
-    
-    if results:
-        print("Top 3 results:")
-        for i, result in enumerate(results[:3]):
-            print(f"  {i+1}. Doc {result['doc_id']}: Score {result['score']:.4f}")
-    
-    # Test 8: Multi-Word Search
-    print("\n" + "="*50)
-    print("TEST 8: Multi-Word Search")
-    multi_query = "quotes love life"  # Adjust based on your content
-    multi_results = search(multi_query, docs, index)
-    print(f"Search query: '{multi_query}'")
-    print(f"✓ Found {len(multi_results)} results")
-    
-    if multi_results:
-        print("Top result:")
-        top_result = multi_results[0]
-        print(f"  Doc {top_result['doc_id']}: Score {top_result['score']:.4f}")
-        print(f"  URL: {top_result.get('url', 'N/A')[:60]}...")
-    
-    # Test 9: Non-Existent Word Search
-    print("\n" + "="*50)
-    print("TEST 9: Search for Non-Existent Word")
-    fake_query = "xyzabc123"
-    fake_results = search(fake_query, docs, index)
-    print(f"Search query: '{fake_query}'")
-    print(f"✓ Results: {len(fake_results)} (should be 0)")
-    print(f"✓ Empty results handled correctly: {len(fake_results) == 0}")
-    
-    # Test 10: Search Ranking Verification
-    print("\n" + "="*50)
-    print("TEST 10: Search Ranking Order")
-    if len(results) > 1:
-        print("Checking that results are sorted by score (highest first):")
-        is_sorted = all(results[i]['score'] >= results[i+1]['score'] 
-                       for i in range(len(results)-1))
-        print(f"✓ Results properly sorted: {is_sorted}")
+    # Sample document content preview
+    print("\nDocument Sample Contents:")
+    for i, (doc_id, content) in enumerate(list(docs.items())[:3], 1):
+        print(f"\nDocument {i} (ID: {doc_id}):")
+        print(f"URL: {content[0]}")
+        print(f"Preview: {content[1][:100]}...")
+
+    # 3. Index Coverage
+    print("\n🔢 INDEX COVERAGE:")
+    for word in processed_query:
+        docs_with_word = index.get(word, [])
+        print(f"Word '{word}': {len(docs_with_word)} documents")
+        if docs_with_word:
+            print(f"  First 3 documents: {docs_with_word[:3]}")
+
+    # 4. Stopword Diagnostic
+    print("\n🚫 STOPWORD DIAGNOSTIC:")
+    print("Current Stopwords:")
+    for word in processed_query:
+        is_stopword = word in STOP_WORDS
+        print(f"  '{word}': {'STOPWORD ⚠️' if is_stopword else 'OK ✅'}")
+
+    # 5. Detailed Search Attempt
+    print("\n🕵️ DETAILED SEARCH ATTEMPT:")
+    try:
+        results = search(query, docs, index)
+        print(f"Total Results: {len(results)}")
         
-        # Show score progression
-        for i in range(min(3, len(results))):
-            print(f"  Result {i+1}: {results[i]['score']:.4f}")
-    else:
-        print("Not enough results to test ranking")
+        if results:
+            print("\nTop Results:")
+            for i, result in enumerate(results[:3], 1):
+                print(f"\nResult {i}:")
+                print(f"  Document ID: {result['doc_id']}")
+                print(f"  URL: {result['url']}")
+                print(f"  Score: {result['score']}")
+                print(f"  Text Preview: {result['text'][:100]}...")
+        else:
+            print("No results found.")
+    except Exception as e:
+        print(f"Error during search: {e}")
+
+    # 6. Potential Index Issues
+    print("\n🔍 POTENTIAL INDEX ISSUES:")
+    index_word_counts = {word: len(docs) for word, docs in index.items()}
+    sorted_words = sorted(index_word_counts.items(), key=lambda x: x[1])
     
-    # Test 11: Empty Query Handling
-    print("\n" + "="*50)
-    print("TEST 11: Empty Query")
-    empty_results = search("", docs, index)
-    print(f"Search query: '' (empty)")
-    print(f"✓ Results: {len(empty_results)} (should handle gracefully)")
+    print("Least Common Words:")
+    for word, count in sorted_words[:5]:
+        print(f"  '{word}': {count} documents")
+
+    # 7. Comprehensive Recommendations
+    print("\n💡 RECOMMENDATIONS:")
+    if len(docs) < 50:
+        print("⚠️ Low document count. Re-run crawler with more sources.")
     
-    # Test 12: Query with Only Stopwords
-    print("\n" + "="*50)
-    print("TEST 12: Query with Only Stopwords")
-    stopword_query = "the and is"
-    stopword_results = search(stopword_query, docs, index)
-    print(f"Search query: '{stopword_query}'")
-    print(f"✓ Results: {len(stopword_results)} (should be 0 or very few)")
+    if not processed_query:
+        print("⚠️ Query not processing correctly. Check tokenization.")
     
-    # Test 13: Search Function Performance Check
-    print("\n" + "="*50)
-    print("TEST 13: Performance Check")
-    import time
-    start_time = time.time()
-    for _ in range(10):  # Run search 10 times
-        search("test query", docs, index)
-    end_time = time.time()
-    avg_time = (end_time - start_time) / 10
-    print(f"✓ Average search time: {avg_time:.4f} seconds")
-    print(f"✓ Performance {'GOOD' if avg_time < 0.1 else 'NEEDS IMPROVEMENT'}")
+    if len(index) < 100:
+        print("⚠️ Very small index. Verify crawler and indexing process.")
+
+
+if __name__ == "__main__":
+    test_queries = ['car', 'automobile', 'vehicle', 'electric', 'battery']
+    docs = load_documents()
+    for query in test_queries:
+        debug_search_engine(docs, build_inverted_index(docs), query)
+    print("="*50)
+print("DOCUMENT DIAGNOSTIC")
+print("="*50)
+
+# Count documents
+files = [f for f in os.listdir(DATA_DIR) if f.endswith('.txt')]
+print(f"\nTotal documents: {len(files)}")
+
+# Check each document
+for filename in files[:10]:  # First 10
+    filepath = os.path.join(DATA_DIR, filename)
+    with open(filepath, 'r', encoding='utf-8') as f:
+        content = f.read()
     
-    print("\n" + "="*60)
-    print("🎉 ALL TESTS COMPLETE! SEARCH ENGINE READY! 🎉")
-    print("="*60)
-    print("ALL TESTS COMPLETE!")
+    parts = content.split('\n\n', 1)
+    url = parts[0]
+    text = parts[1] if len(parts) > 1 else ""
+    
+    print(f"\n📄 {filename}")
+    print(f"   URL: {url}")
+    print(f"   Text length: {len(text)} characters")
+    print(f"   Word count: {len(text.split())}")
+    print(f"   Preview: {text[:100]}...")
+    
+    # Check for automotive keywords
+    keywords = ['car', 'electric', 'vehicle', 'battery', 'automotive']
+    found = [k for k in keywords if k in text.lower()]
+    print(f"   Automotive keywords found: {found}")
