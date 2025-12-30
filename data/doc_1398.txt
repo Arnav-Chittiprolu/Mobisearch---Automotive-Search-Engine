@@ -1,3 +1,0 @@
-https://en.wikipedia.org/wiki/Category:Image_sensor_technology_in_computer_vision
-
-Help From Wikipedia, the free encyclopedia Pages in category "Image sensor technology in computer vision" The following 8 pages are in this category, out of  8 total. This list may not reflect recent changes . C CMUcam G GenICam GigE Vision O Omnidirectional camera R Range imaging S Smart camera Structured light T Time-of-flight camera Retrieved from " https://en.wikipedia.org/w/index.php?title=Category:Image_sensor_technology_in_computer_vision&oldid=1317894540 " Categories : Computer vision Sensor technology Image sensors
