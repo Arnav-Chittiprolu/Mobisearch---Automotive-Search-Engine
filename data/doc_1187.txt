@@ -1,0 +1,872 @@
+https://en.wikipedia.org/w/index.php?title=Hyundai_Kona&action=edit
+
+Page notice You are not logged in. Once you make an edit, a temporary account , furnished only with a very basic level of privacy, will be assigned to you automatically and will expire within 90 days. If you log in or create an account , your edits will instead be attributed to a username, and you will be able to receive notifications about your edits for as long as you wish, among other benefits . Content that violates any copyrights will be deleted. Encyclopedic content must be verifiable through citations to reliable sources . Anti-spam check.
+Do not fill this in! {{Short description|Subcompact crossover SUV}}
+{{Use British English|date=June 2024}}
+{{Infobox automobile
+| name = Hyundai Kona
+| image = Hyundai Kona N Line (SX2) DSC 8250.jpg
+| caption = Hyundai Kona N Line (SX2)
+| manufacturer = [[Hyundai Motor Company|Hyundai]]
+| aka = Hyundai Kauai (Portugal), 
+Hyundai Encino (Latin America)
+| production = 2017–present
+| model_years = 2018–present
+| class = [[Subcompact crossover SUV]]
+| body_style = 5-door [[SUV]]
+| layout = {{ubl
+  | [[Front-engine, front-wheel-drive]]
+  | [[Front-engine, all-wheel-drive]]
+  | [[Front-motor, front-wheel-drive]] (electric)
+}}
+| platform = 
+}}
+
+The '''Hyundai Kona''' ({{langx|ko|현대 코나}}) is a [[subcompact crossover SUV]] produced by the South Korean manufacturer [[Hyundai Motor Company|Hyundai]].<ref>{{Cite web|last=Rogers|first=Cameron|date=August 24, 2020|title=Hyundai Kona Prices, Reviews, and Pictures {{!}} Edmunds|url=https://www.edmunds.com/hyundai/kona/|website=[[Edmunds.com]]}}</ref> The first-generation Kona debuted in June 2017 and the production version was revealed later that year. It is positioned between the [[Hyundai Venue|Venue]] or [[Hyundai Bayon|Bayon]] and the [[Hyundai Tucson|Tucson]] in Hyundai crossover SUV line-up. The [[Battery electric vehicle|battery electric]] version called the Kona Electric (or Kona EV) was first launched in [[South Korea]] during the first half of 2018 and rolled out gradually worldwide afterwards.<ref name=":0" />
+
+==Naming==
+The Kona is named after the [[Kona District, Hawaii|western district]] of the [[Hawaii (island)|island of Hawaiʻi]].<ref>{{Cite news|url=https://motoringjunction.com/car-news/hyundai-kona-creta/ |title=2018 Hyundai Kona Unveiled; Smaller Than Creta |date=2017-06-17|work=Motoring Junction|access-date=2017-06-20|language=en-US}}</ref> The company stated the name "reflects the lifestyle of modern customers", in line with its "progressive design" that it adopts.<ref>{{Cite web|last=Panait|first=Mircea|date=2017-04-03|title=2018 Hyundai Kona B-SUV Is Named After A Hawaiian District|url=https://www.autoevolution.com/news/2018-hyundai-kona-b-suv-is-named-after-a-hawaiian-district-116631.html|access-date=2020-12-11|website=autoevolution|language=en}}</ref> The Kona naming also continues Hyundai's tradition of naming crossover SUV models after famous travel destinations, including the Creta, Santa Fe, Tucson and Veracruz.<ref>{{Cite web|title=Hyundai Motor Company Australia {{!}} Hyundai Australia|url=https://www.hyundai.com/au/en/hyundai-info/news/2017/04/hyundai-motor-reveals-kona-as-hawaii-inspired-name-for-new-compact-suv|access-date=2020-12-11|website=www.hyundai.com|language=en}}</ref>
+
+The vehicle is marketed in [[Portugal]] as the '''Hyundai Kauai''', as Kona is too similar to ''cona'', a slang word for the female genitalia in [[European Portuguese]].<ref>{{cite web|title=Hyundai KAUAI |url=https://www.hyundai.pt/automoveis/kauai/ |website= Hyundai.pt |publisher=Hyundai Portugal|access-date=9 January 2018|language=pt}}</ref><ref name="Carscoops"/> Like Kona, [[Kauai]] is a place in [[Hawaii]].
+
+In [[China]], the vehicle was sold as the '''Hyundai Encino'''.<ref name="Yonhap"/><ref>{{cite news|script-title=zh:2017广州车展：北京现代ENCINO正式亮相 |trans-title=2017 Guangzhou Auto Shot: Beijing Hyundai's Encino revealed |url= http://auto.ifeng.com/guonei/20171117/1100887.shtml |access-date=9 January 2018|work=[[Phoenix Television]]|date=17 November 2017| language = zh-hans|quote={{lang|zh-hans|北京现代旗下全新小型SUV车型——ENCINO(海外版车型为KONA)正式亮相。}} [Beijing Hyundai's new compact SUV -- Encino (overseas version named Kona) is officially unveiled]}}</ref>
+
+The car is sold both in Iceland and Norway under its original name. In Icelandic the word ''kona'' means woman, while in Norwegian ''kona'' is the singular definite form of ''kone'', meaning ''wife''. 
+
+{{clear}}
+
+=={{Anchor|OS|first}} First generation (OS; 2017)==
+{{Infobox automobile
+| name = First generation
+| image = 2019 Hyundai Kona Premium 1.0.jpg
+| model_code = OS<ref>{{Cite web |title=Hyundai Kona OS |url=https://www.car.info/en-se/hyundai/kona/kona-1st-generation-11428400 |access-date=2023-11-25 |website=car.info}}</ref>
+| aka = Hyundai Kauai (Portugal)<ref name="Carscoops">{{Cite news|url=http://www.carscoops.com/2017/05/grab-it-by-kona-why-hyundai-might-want.html |title=Grab It By The Kona: Why Hyundai Might Want To Change Their New SUV's Name |author=Karkafiris, Mike |publisher=Carscoops |date=2017-05-23 |access-date=2017-09-16}}</ref><br />Hyundai Encino (China)<ref name="Yonhap">{{cite web |url=http://english.yonhapnews.co.kr/news/2017/11/17/0200000000AEN20171117007600320.html |title=Hyundai unveils 'Encino' subcompact SUV in China auto show |publisher=[[Yonhap]] |date=2017-11-17 |access-date=2017-12-20}}</ref>
+| production = 2017–2023<br />2018–2020 (China)<ref name="irsales">{{Cite web|title=Sales Performance|url=https://www.hyundai.com/worldwide/en/company/ir/ir-activities/sales-performance|access-date=2022-09-02|website=Hyundai Motor Company|language=en}}</ref>
+| model_years = 2018–2023
+| assembly = {{ubl
+  | South Korea: [[Ulsan]] ([[Hyundai Ulsan Plant|Ulsan Plant 1]])
+  | China: [[Beijing]] ([[Beijing Hyundai]])
+  | Czech Republic: [[Nošovice]] ([[Hyundai Motor Manufacturing Czech|HMMC]], electric only)<ref>{{cite web | url=https://ct24.ceskatelevize.cz/ekonomika/3040660-nastup-elektromobilu-pokracuje-hyundai-zacne-v-nosovicich-vyrabet-model-kona | title=Nástup elektromobilů pokračuje, Hyundai začne v Nošovicích vyrábět model Kona Electric }}</ref><ref name=czech>{{cite web |last1=Berman |first1=Bradley |title=Hyundai starts producing Kona Electric at Czech plant, helping triple its EVs for Europe |url=https://electrek.co/2020/03/02/hyundai-starts-producing-kona-electric-at-czech-plant-helping-triple-its-evs-for-europe/ |website=[[Electrek]] |date=2 March 2020}}</ref>
+  | India: [[Chennai]] ([[Hyundai Motor India|HMIL]], electric&nbsp;only)<ref>{{Cite web|title=Hyundai Kona Electric launched at Rs 25.30 lakh|url=https://www.autocarindia.com/car-news/hyundai-kona-electric-launched-at-rs-2530-lakh-413397|access-date=2020-12-14|website=Autocar India|language=en}}</ref>
+  | Vietnam: [[Ninh Bình]] ([[Hyundai Thanh Cong Manufacturing Vietnam|HTMV]])<ref>{{Cite web|title=Detailed evaluation of Hyundai Kona car 2020|url=https://electrodealpro.com/detailed-evaluation-of-hyundai-kona-car-2020/|access-date=2020-12-12|website=ElectroDealPro|language=en-US}}</ref>
+  | Algeria: [[Tiaret]] ({{abbr|TMC|Tahkout Manufacturing Company}})
+  }}
+| designer = Kim Sung-No<ref>{{Cite patent|country=US|number=D834452|title=Automobile|pubdate=2018-11-27|inventor1-last=Kim|inventor1-first=Sung-No|assign1=[[Hyundai Motor Co.]]}}</ref><ref>{{Cite patent|country=US|number=D855497|title=Automobile|pubdate=2019-08-06|inventor1-last=Kim|inventor1-first=Sung-No|assign1=[[Hyundai Motor Co.]]|assign2=[[Kia Motors Corp.]]}}</ref>
+| platform = 
+| related = {{ubl
+  | [[Kia Seltos|Kia Seltos (SP2)]]<ref name="Visor">{{cite web |url=https://visor.ph/cars/kia-ph-is-bringing-in-the-segment-busting-seltos-subcompact-suv/ |title=Kia PH is bringing in the segment-busting Seltos subcompact SUV |first=Vernon B. |last=Sarne |website=Visor |date=2019-07-23 |access-date=2019-07-24}}</ref>
+  | [[Hyundai i30#PD|Hyundai i30 (PD)]]<ref name="i30" />
+  }}
+| engine = {{ubl
+  | '''[[Petrol engine|Petrol]]:'''
+  | 1.0 L ''[[Hyundai Kappa engine#G3LC|Kappa II]]'' [[Turbocharger|T]]-[[Gasoline direct injection|GDi]] [[Straight-three engine|I3]]
+  | 1.0 L ''[[Hyundai Smartstream engine#G3LE|Smartstream G1.0]]'' T-GDi I3 (Mild hybrid)
+  | 1.6 L ''[[Hyundai Gamma engine#G4FJ|Gamma]]'' T-GDi [[Straight-four engine|I4]]
+  | 1.6 L ''[[Hyundai Smartstream engine#G4FP|Smartstream G1.6]]'' T-GDi I4
+  | 2.0 L ''[[Hyundai Nu engine#G4NH|Nu]]'' [[Multi-point injection|MPi]] I4
+  | 2.0 L ''[[Hyundai Smartstream engine#G4NS|Smartstream G2.0]]'' MPi I4
+  | 2.0 L ''[[Hyundai Theta engine#G4KH|Theta II]]'' T-GDi I4
+  | '''[[Petrol engine|Petrol]] [[Hybrid electric vehicle|hybrid]]:'''
+  | 1.6 L ''[[Hyundai Kappa engine#G4LE|Kappa II]]'' GDi HEV I4
+  | 1.6 L ''[[Hyundai Smartstream engine#G4LE|Smartstream G1.6 Hybrid]]'' GDi HEV I4
+  | '''[[Diesel engine|Diesel]]:'''
+  | 1.6 L ''[[Hyundai U engine#D4FB|U II]]'' [[Common rail|CRDi]] I4
+  | 1.6 L ''[[Hyundai Smartstream engine#D4FE|Smartstream D1.6]]'' CRDi I4
+  }}
+| motor = [[Permanent magnet synchronous motor]] (hybrid and electric)
+| transmission = {{ubl
+  | 6-speed [[Manual transmission|manual]]
+  | 6-speed [[List of Hyundai transmissions#A6F22|A6F22]] [[Automatic transmission|automatic]]
+  | 6-speed [[List of Hyundai transmissions#D6KF1|D6KF1]] [[Dual-clutch transmission|DCT]] (hybrid)
+  | 7-speed [[List of Hyundai transmissions#D7UF1|D7UF1]] DCT
+  | 8-speed [[List of Hyundai transmissions#D8LF1|D8LF1]] DCT
+  | [[Continuously variable transmission|CVT]]
+  | Single-speed (electric)
+  }}
+| battery = {{ubl
+  | 1.56 [[kWh]] [[lithium-ion polymer battery]] (hybrid)
+  | 39.2 or 64 kWh lithium-ion polymer battery (electric)
+}}
+| wheelbase = {{convert|2600|mm|in|1|abbr=on}}
+| length = {{convert|4165-4215|mm|in|1|abbr=on}}
+| width = {{convert|1800|mm|in|1|abbr=on}}
+| height = {{convert|1550|-|1575|mm|in|1|abbr=on}}
+| weight = {{convert|1233|-|1569|kg|lb|0|abbr=on}}<br />{{convert|1535|-|1743|kg|lb|0|abbr=on}} (electric)
+| successor = [[Hyundai Creta#Creta Electric|Hyundai Creta Electric]] (India, electric)
+| drivetrain = [[Mild hybrid]] (1.0L I3) <br>
+[[Hybrid Electric Vehicle | Hybrid]] (Hybrid) <br>
+[[Electric Vehicle| Electric]] (Kona Electric)
+}}
+The first-generation Kona was revealed in June 2017 in Seoul, South Korea.<ref>{{Cite web|title=The Hyundai KONA World Premiere: how the press reacted|url=https://www.hyundai.news/eu/model-news/the-hyundai-kona-world-premiere-how-the-press-reacted/|access-date=2020-12-11|website=Hyundai Media Newsroom|language=en}}</ref> Positioned below the [[Hyundai Tucson|Tucson]], it was the smallest crossover SUV in the Hyundai global line-up until that position was taken by the [[Hyundai Venue|Venue]] in 2019.<ref>{{Cite web|last=Priddle|first=Alisa|date=2017-06-13|title=2018 Hyundai Kona First Look: Big Things Expected From Small Package|url=https://www.motortrend.com/cars/hyundai/kona/2018/2018-hyundai-kona-first-look-review/|website=Motor Trend}}</ref> The first-generation Kona was built on a newly developed B-segment SUV platform derived from the [[Hyundai i30]] platform<ref name="i30">{{Cite web|last=Hagon|first=Toby|date=2017-06-15|title=Official: Hyundai Kona revealed - Official: Hyundai Kona revealed|url=https://www.drive.com.au/motor-news/official--hyundai-kona-revealed-gwpt71|access-date=2020-12-11|website=Drive|language=en-au}}</ref> which was designed to accommodate a range of powertrains, including fuel cell and electric variants.<ref name=":1">{{Cite web|last=Kozak|first=Graham|date=2017-06-13|title=Meet the 2018 Hyundai Kona: Better late than never to the subcompact SUV party|url=http://autoweek.com/news/a1823431/2018-hyundai-kona-subcompact-crossover-suv-debut-specifications-and-photos/|access-date=2020-12-11|website=Autoweek|language=en-US}}</ref> While it was developed as an urban-oriented crossover SUV, the first-generation Kona was available in front-wheel-drive and all-wheel-drive variants; the rear suspension is a [[Twist-beam rear suspension|torsion beam]] for the former and a [[Multi-link suspension|dual-arm multi-link]] configuration for the latter.<ref name=":1" />
+
+For the North American market, the Kona was launched at the [[LA Auto Show#2017|Los Angeles Auto Show]] in November 2017 and was available at Hyundai dealers in the first quarter of 2018 for the 2018 model year.<ref>{{Cite web|title=KONA - Hyundai Newsroom|url=https://www.hyundainews.com/en-us/models/hyundai-kona-2018-kona|access-date=2020-12-11|website=www.hyundainews.com}}</ref> Engine options offered are 2.0-litre 4-cylinder [[Atkinson cycle]] engine capable of {{cvt|147|hp|PS kW|0|abbr=on}} and {{cvt|132|lbft|Nm kgm|abbr=on|sigfig=3}}, paired with a 6-speed automatic transmission. Higher trims are powered with a 1.6-litre ''[[Hyundai Gamma engine#G4FJ|Gamma]]'' turbo engine paired with a 7-speed dual-clutch transmission producing {{cvt|175|hp|PS kW|0|abbr=on}} and {{cvt|195|lbft|Nm kgm|abbr=on|sigfig=3}}.<ref>{{Cite web|last=Cole|first=Craig|date=2017-06-14|title=2018 Hyundai Kona Quick Spin|url=https://www.autoguide.com/manufacturer/hyundai/2018-hyundai-kona-quick-spin|access-date=2020-12-11|website=AutoGuide.com}}</ref>
+
+The Kona is either not sold or only sold in low volumes in markets where the simpler [[Hyundai Creta|Creta]] is offered, such as Latin America, India, and Russia. Southeast Asian countries such as Indonesia, the Philippines and Vietnam are the few countries that briefly sold the petrol-powered Kona before it was indirectly replaced by the Indonesian-built Creta in 2022.<ref>{{cite news |last=Arifin |first=Ridwan|date=2021-10-27 |title=Terciduk! Hyundai Creta Keliaran Pakai Kamuflase Kepulauan Indonesia |url=https://oto.detik.com/mobil/d-5784375/terciduk-hyundai-creta-keliaran-pakai-kamuflase-kepulauan-indonesia |language=Indonesian |website=oto.detik.com |publisher=Detik |location=Indonesia |access-date=2022-01-21}}</ref><ref>{{Cite web |last=VCCorp.vn |title=Hyundai Kona bị tạm ngừng lắp ráp tại Việt Nam, nhường sân chơi cho 'ngôi sao' Creta đấu Kia Seltos |url=https://autopro.com.vn/hyundai-kona-bi-tam-ngung-lap-rap-tai-viet-nam-nhuong-san-choi-cho-ngoi-sao-creta-dau-kia-seltos-20220613154150868.chn |access-date=2022-09-19 |website=autopro.com.vn |language=vi}}</ref> The Chinese market had both the Kona and Creta, named there the Encino and ix25 respectively.
+
+<gallery widths="200" heights="150">
+File:2019 Hyundai Kona Hybrid Premium SE GDi 1.6 Rear.jpg|Rear (pre-facelift)
+File:2021 Hyundai Kona 1.6 Standard black interior view in Brunei.jpg|Interior
+</gallery>
+
+===Kona Electric===
+The '''Kona Electric'''<!-- bolded per [[WP:MOSBOLD]] as a redirect target --> is a [[Battery electric vehicle|battery electric]] version of the Kona. It is the second electric car from Hyundai after the [[Hyundai Ioniq|Ioniq]]. Sales started in Korea and Europe in 2018, with a market debut in the United States in 2019.<ref>{{cite web|title=Electric cars and crossovers: Here's what we expect in the next 5 years|url=http://autoweek.com/article/green-cars/next-five-years-evs|access-date=9 October 2017|work=[[Autoweek]]|date=2 October 2017}}</ref><ref>{{cite web|title=Kona Electric SUV From Hyundai May Have 210 Mile Range [Hot!]|url=https://cleantechnica.com/2017/10/06/kona-electric-suv-hyundai-may-210-mile-range-hot/|access-date=13 October 2017|work=[[CleanTechnica]]|date=6 October 2017}}</ref><ref name=":0">{{cite web|date=25 September 2017|title=Hyundai Kona EV with 240-mile electric range will debut at the 2018 Geneva Motor Show|url=http://www.carsuk.net/hyundai-kona-ev-240-mile-electric-range-will-debut-2018-geneva-motor-show/|access-date=13 October 2017|website=carsuk.net}}</ref>
+
+Kona Electric was available in two battery capacities: 39.2 kWh and 64 kWh.<ref>{{Cite news|date=2018-08-20|title=Hyundai Kona Electric gets official EPA range of 258 miles and efficiency of 120 MPGe|language=en-US|work=Electrek|url=https://electrek.co/2018/08/20/hyundai-kona-electric-official-epa-range-efficiency/|access-date=2018-09-28}}</ref> The 'ultimate' trim features [[adaptive cruise control]] and along with [[lane centering]]<ref>{{Cite web|date=February 27, 2018|title=Hyundai Kona Electric is 292-mile range, 7.6 sec 0-62mph time|url=https://sevendaynews.com/2018/02/27/hyundai-kona-electric-is-292-mile-range-7-6-sec-0-62mph-time/|access-date=January 27, 2020|website=sevendaynews.com|language=en-US|archive-date=26 December 2018|archive-url=https://web.archive.org/web/20181226232914/https://sevendaynews.com/2018/02/27/hyundai-kona-electric-is-292-mile-range-7-6-sec-0-62mph-time/|url-status=dead}}</ref><ref>{{Cite web|last=Fealey|first=Will|date=October 29, 2018|title=I just drove 110 miles on LFA (Lane Follow Assist) and Smart Cruise control in the Hyundai Kona EV and I'm impressed (a Tesla owner reviews the Kona)|url=https://fealey.co.uk/ev-transport/i-just-drove-110-miles-on-lfa-lane-follow-assist-and-smart-cruise-control-in-the-hyundai-kona-ev-and-im-impressed-tesla-owner-reviews-the-kona/951|access-date=January 27, 2020|website=fealey.co.uk|publisher=Will Fealey|language=en-US}}</ref> means the vehicle meets the [[Self-driving car#SAE classification|SAE standard for Level 2 driverless]].<ref>{{Cite web|title=KONA Electric - Sign Up for Email Updates|url=https://m.hyundaiusa.com/kona-electric/|access-date=2019-01-29|website=hyundaiusa.com|publisher=Hyundai USA}}</ref> The Kona EV has a range of {{cvt|415|km|mi}} with the 64 kWh battery.<ref>{{cite web|title=2019 Hyundai Kona Electric|url=https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=40585|access-date=2020-02-10|website=fueleconomy.gov|publisher=U.S. Department of Energy|quote=258 miles Total Range}}</ref><ref>{{cite web|last=Moses|first=Jasmine|date=2019-11-07|title=2020 Hyundai Kona EV #3 in Hybrid and Electric SUVs|url=https://cars.usnews.com/cars-trucks/hyundai/kona-ev|access-date=2020-02-10|website=cars.usnews.com|publisher=U.S. News & World Report|quote=The Kona Electric is a good vehicle in the hybrid and electric SUV class. It has an impressive 258-mile range}}</ref> Real-world range tests conducted by ''[[What Car]]'' in early 2019 found that the Kona EV had the highest real-world range among electric cars for sale in the United Kingdom.<ref>{{cite web|date=20 April 2019|title=What Car? Real Range: which electric car can go farthest in the real world?|url=https://www.whatcar.com/news/what-car-real-range-which-electric-car-can-go-farthest-in-the-real-world/n18162|access-date=24 June 2019|website=[[What Car?]]}}</ref> In 2020 Hyundai Europe conducted a three day test at [[Lausitzring]] track in Germany and achieved ranges of up to 1026km with the 64 kWh model, an efficiency of 100 Wh/mile (6.23Kwh/100Km) at an average speed of 30km/h (19mph)<ref>{{cite web | url=https://www.hyundai.news/uk/articles/press-releases/hyundai-motors-kona-electric-sets-range-record-of-1026-kilometres.html | title=Hyundai Motor's Kona Electric sets range record of 1,026 kilometres }}</ref>
+
+In March 2019, Hyundai launched the Kona Electric in Thailand. In July 2019, Hyundai launched an Electric Lite version as Kona Electric in India. In 2020, Hyundai started producing the Kona Electric in its European factory in the Czech Republic, where there are plans for an annual production of 30,000 vehicles.<ref name="czech" /> Kona Electric reached 100,000 global sales in June 2020.<ref>{{Cite web|title=Hyundai KONA Electric Hits 100,000 Global Sales Milestone|url=https://www.hyundai.com/worldwide/en/company/newsroom/hyundai-kona-electric-hits-100%252C000-global-sales-milestone-0000016493|access-date=2020-10-12|website=HYUNDAI MOTORS|language=en}}</ref>
+
+Hyundai Encino EV was launched on the Chinese car market in November 2019. The electric motor of the Encino EV has an output of {{cvt|201|hp|kW PS|0|disp=flip}} and {{cvt|310|Nm|kgm lbft|sigfig=3}}. The motor is powered by a 64.2 kWh battery with an NEDC range of {{cvt|500|km|mi}}.<ref>{{Cite web|title=Hyundai Sells The Kona Electric In China As Encino EV For $24,766|url=https://insideevs.com/news/381031/hyundai-kona-electric-encino-ev-china/|access-date=2020-11-09|website=insideevs|language=en}}</ref>
+
+In November 2021, the facelifted Hyundai Kona Electric was launched in Malaysia.<ref>{{Cite web |date=2021-11-23 |title=Hyundai Kona Electric launched in Malaysia - three variants, 305 to 484 km range, fr. RM150k to RM200k - paultan.org |url=https://paultan.org/2021/11/23/hyundai-kona-electric-launched-in-malaysia-three-variants-305-to-484-km-range-fr-rm150k-to-rm200k/ |access-date=2022-07-10 |website=Paul Tan's Automotive News |language=en-US}}</ref> With three variants, two battery packs are on offer - 39.2 kWh and 64 kWh - with battery ranges going from 303&nbsp;km in the smaller pack and going up to 484&nbsp;km in the larger pack.
+
+In 2021, the Hyundai Kona Electric was the sixth best-selling electric vehicle in the UK having achieved a total of 7,199 registrations throughout the year.<ref>{{cite web |url=https://www.smmt.co.uk/vehicle-data/car-registrations/ |title=SMMT - Car Registrations |publisher=smmt.co.uk |access-date=22 January 2022}}</ref>
+
+In June 2024, the Hyundai Kona Electric was discontinued in India, and it is replaced by the [[Hyundai Creta#Creta Electric|Creta Electric]].<ref>{{Cite web |last=Merchant |first=Akbar |date=2024-06-25 |title=Hyundai Kona Electric discontinued in India |url=https://www.autocarindia.com/car-news/hyundai-pulls-the-plug-on-kona-electric-in-india-432011 |access-date=2025-01-03 |website=Autocar India |language=en}}</ref>
+
+<gallery widths="200" heights="133">
+File:2020 Hyundai Kona Electric in Chalk White, front left.jpg|2019 Hyundai Kona Electric
+File:2020 Hyundai Kona Electric in Chalk White, rear left.jpg|2019 Hyundai Kona Electric
+File:Hyundai Kona Electric Leonberg 2019 IMG 0103.jpg|Powertrain
+</gallery>
+
+===Facelift===
+In September 2020, Hyundai unveiled a facelift version of the Kona, for the original SUV as well as the Kona Electric and N Line models.<ref>{{Cite web|title=Hyundai Motor Unveils Stylish Enhancements for KONA and Launches Sporty All-New KONA N Line|url=https://www.hyundai.com/worldwide/en/company/newsroom/hyundai-motor-unveils-stylish-enhancements-for-kona-and-launches-sporty-all-new-kona-n-line-0000016514|access-date=2020-09-03|website=HYUNDAI MOTORS|language=en}}</ref><ref>{{Cite web|date=2020-09-03|title=Looking Sharp: Hyundai Kona facelift makes it debut|url=https://carthrust.com/2020/09/03/looking-sharp-hyundai-kona-facelift-makes-it-debut/|access-date=2020-09-03|website=CarThrust|language=en-US}}</ref> The facelift primarily had exterior aesthetic changes, alongside extra cargo capacity and rear seat legroom. Also a 48 volt [[mild hybrid]] system was added to the 1.0L three cylinder<ref>{{Cite web |title=Hyundai unveils enhancements for Kona and launches all-new Kona N Line |url=https://www.hyundai.news/uk/models/suv/kona/press-kit/hyundai-unveils-enhancements-for-kona-and-launches-all-new-kona-n-line.html |access-date=2024-09-11 |website=www.hyundai.news}}</ref>
+
+<gallery widths="200" heights="130">
+File:Hyundai Kona Facelift IMG 5343.jpg|2021 Kona (facelift)
+File:2021 Hyundai Kona SE Connect GDi HEV S-A 1.6 Rear.jpg|2021 Kona Hybrid (facelift)
+File:Hyundai Kona Electric FL IMG 0032.jpg|2021 Kona Electric (facelift)
+File:Hyundai Kona Electric FL IMG 3913.jpg|2021 Kona Electric (facelift)
+File:2022 Hyundai Kona 1.6T N-Line, Front Left, 07-18-2021.jpg|2021 Kona N Line (facelift)
+File:2022 Hyundai Kona 1.6T N-Line, Rear Left, 07-18-2021.jpg|2021 Kona N Line (facelift)
+</gallery>
+
+===Kona N===
+Released at Hyundai N Day on 27 April 2021, the Kona N is Hyundai's first high-performance SUV under the [[Hyundai N]] division. A 2.0-litre turbocharged GDI engine features flat power that maintains maximum output from about 5,500 rpm. The engine is capable of an output up to {{cvt|280|PS|hp kW|0|abbr=on}} and maximum torque is about {{cvt|289|lbft|Nm kgm|abbr=on|sigfig=3}}. The output can temporarily reach up to {{cvt|290|PS|hp kW|0|abbr=on}} when in the N Grin Shift mode.
+
+In the front, an N logo and a dark chrome-colour Hyundai logo are attached to the grille. At the sides and rear, a front lip spoiler, double-wing rear spoiler and side sill mouldings offer added downforce, improving grip force and high-speed stability. It also features an N-exclusive triangular third brake light. Inside, the seats, steering wheel, gear knob and hand brake are tinted with Performance Blue while faux suede seats come with side bolsters. An N-dedicated colour Sonic Blue was added and N Grin Shift, N Power Shift, N Track Sense Shift and Variable Exhaust Valve System come as standard.
+
+<gallery widths="200" heights="113">
+File:Hyundai Kona N IMG 5398.jpg|2021 Kona N
+File:Hyundai Kona N IMG 5399.jpg|2021 Kona N
+</gallery>
+
+=== Hyundai Encino (China) ===
+<gallery widths="200" heights="140">
+File:Hyundai Encino Sanming 01 2023-03-30.jpg|Hyundai Encino
+File:Hyundai Encino Sanming 02 2023-03-30.jpg|Hyundai Encino
+File:HYUNDAI ENCINO ELECTRIC (HYUNDAI KONA ELECTRIC (OS)).jpg|Hyundai Encino EV
+File:HYUNDAI ENCINO ELECTRIC (HYUNDAI KONA ELECTRIC (OS)) (2).jpg|Hyundai Encino EV
+</gallery>
+
+===Powertrain===
+From launch, the first-generation Kona became available with a 1.0-litre, turbocharged direct injection petrol engine producing {{cvt|118|hp|PS kW|0|abbr=on}}, or a 1.6-litre turbocharged direct injection petrol engine producing {{cvt|175|hp|PS kW|0|abbr=on}}, with all-wheel-drive option available on selected models.<ref>{{Cite web|url=http://www.hyundai.co.uk/new-cars/kona |title=New Kona – Hyundai's first sub-compact SUV| website= hyundai.co.uk |access-date=2017-06-19}}</ref>
+
+{| class="wikitable" style="text-align:left; font-size:90%;"
+|-
+|+ Specs<ref>{{Cite web|url=https://www.hyundai.com/worldwide/en/suv/kona/highlights|title = Kona Highlights &#124; SUV - Hyundai Worldwide}}</ref><ref>{{Cite web|url=https://www.hyundai.com/worldwide/en/eco/kona-electric/highlights|title = KONA Electric Highlights &#124; Eco - Hyundai Worldwide}}</ref>
+! Model
+! Year
+! Transmission
+! Power
+! Torque
+! 0–100&nbsp;km/h<br />(0-62&nbsp;mph)<br />(Official)
+! Top speed
+|-
+! colspan="7" |Petrol
+|-
+| 1.0 L ''Kappa'' T-GDi
+| 2017–2020
+| 6-speed [[Manual transmission|manual]]
+| rowspan="3" |{{convert|120|PS|kW hp|0|abbr=on|lk=on}} @ 6,000&nbsp;[[Revolutions per minute|rpm]]
+| rowspan="2" |{{convert|17.5|kgm|0|abbr=on|lk=on}} @ 1,500–4,000&nbsp;rpm
+| 12.0s
+| {{convert|181|km/h|mi/h|abbr=on|lk=on}}
+|-
+| rowspan="2" |1.0 L ''Smartstream G1.0'' T-GDi
+| rowspan="2" |2020–2023
+| 6-speed manual
+| 11.5s<br />11.9s (Mild hybrid)
+| {{convert|181|km/h|mi/h|abbr=on}}<br />{{convert|180|km/h|mi/h|abbr=on}} (Mild hybrid)
+|-
+| 7-speed [[Dual-clutch transmission|DCT]]
+| {{convert|20.4|kgm|0|abbr=on}} @ 2,000–3,500&nbsp;rpm
+| 11.0s
+| {{convert|182|km/h|mi/h|abbr=on}}
+|-
+| 1.6 L ''Gamma'' T-GDi
+| 2017–2020
+| rowspan="2" |7-speed DCT
+| {{convert|177|PS|kW hp|0|abbr=on}} @ 5,500&nbsp;rpm
+| {{convert|27|kgm|0|abbr=on}} @ 1,500–4,500&nbsp;rpm
+| {{ubl
+  | 7.7s <small>(FWD)</small>
+  | 7.9s <small>(AWD)</small>
+  }}
+| {{ubl
+  | {{convert|209|km/h|mi/h|abbr=on}} <small>(FWD)</small>
+  | {{convert|205|km/h|mi/h|abbr=on}} <small>(AWD)</small>
+  }}
+|-
+| 1.6 L ''Smartstream G1.6'' T-GDi
+| 2020–2023
+| {{convert|198|PS|kW hp|0|abbr=on}} @ 6,000&nbsp;rpm
+| {{convert|27|kgm|0|abbr=on}} @ 1,800–4,500&nbsp;rpm
+| {{ubl
+  | 7.7s <small>(FWD)</small>
+  | 8.1s <small>(AWD)</small>
+  }}
+| {{convert|210|km/h|mi/h|abbr=on}}
+|-
+| 2.0 L ''Nu'' MPi
+| 2017–2020
+| 6-speed [[Torque converter|automatic]]
+| rowspan="2" |{{convert|149|PS|kW hp|0|abbr=on}} @ 6,200&nbsp;rpm
+| {{convert|18.4|kgm|0|abbr=on}} @ 4,500&nbsp;rpm
+| {{ubl
+  | 9.2s <small>(FWD)</small>
+  |
+  }}
+| {{convert|200|km/h|mi/h|abbr=on}} <small>(FWD)</small>
+|-
+| 2.0 L ''Smartstream G2.0'' MPi
+| 2020–2023
+| 6-speed automatic<br />[[Continuously variable transmission|CVT]]
+| {{convert|18.3|kgm|0|abbr=on}} @ 4,500&nbsp;rpm
+|
+|
+|-
+| 2.0 L ''Theta II'' T-GDi
+| 2021–2023
+| 8-speed DCT
+| {{convert|280|PS|kW hp|0|abbr=on}} @ 5,500–6,000&nbsp;rpm
+| {{convert|40|kgm|0|abbr=on}} @ 2,100–4,700&nbsp;rpm
+| 5.5s
+| {{convert|240|km/h|mi/h|0|abbr=on}}
+|-
+! colspan="7" |Hybrid
+|-
+| 1.6 L ''Kappa'' GDi Hybrid
+| 2019–2020
+| rowspan="2" |6-speed DCT
+| rowspan="2" |{{convert|141|PS|kW hp|0|abbr=on}} @ 5,700&nbsp;rpm
+| rowspan="2" |{{convert|27|kgm|0|abbr=on}} @ 4,000&nbsp;rpm
+| {{ubl
+  | 11.2s <small>(SE)</small>
+  | 11.6s <small>(Premium)</small>
+  }}
+| {{convert|185|km/h|mi/h|abbr=on}}
+|-
+| 1.6 L ''Smartstream G1.6'' GDi Hybrid
+| 2020–2023
+| {{ubl
+  | 11.0s <small>(SE)</small>
+  | 11.3s <small>(Premium)</small>
+  }}
+| {{convert|161|km/h|mi/h|abbr=on}}
+|-
+! colspan="7" |Diesel
+|-
+| 1.6 L ''U II'' CRDi
+| 2017–2020
+| 6-speed manual<br />7-speed DCT
+| {{convert|115|PS|kW hp|0|abbr=on}} @ 4,000&nbsp;rpm<br />{{convert|136|PS|kW hp|0|abbr=on}} @ 4,000&nbsp;rpm
+| {{convert|28.6|kgm|0|abbr=on}} @ 1,500–2,750&nbsp;rpm<br />{{convert|32.6|kgm|0|abbr=on}} @ 2,000–2,250&nbsp;rpm
+| {{ubl|
+  | 10.7s <small>(115 PS)</small>
+  | 10.2s <small>(136 PS)</small>
+  }}
+| {{convert|183|km/h|mi/h|abbr=on}} <small>(115 PS)</small><br />{{convert|192|km/h|mi/h|abbr=on}} <small>(136 PS)</small>
+|-
+| 1.6 L ''Smartstream D1.6'' CRDi
+| 2020–2023
+| 6-speed manual<br />7-speed DCT
+| {{convert|136|PS|kW hp|0|abbr=on}} @ 4,000&nbsp;rpm
+| {{convert|28.6|kgm|0|abbr=on}} @ 1,500–3,000&nbsp;rpm<br />{{convert|32.6|kgm|0|abbr=on}} @ 2,000–2,250&nbsp;rpm
+| {{ubl|
+  | 10.3s <small>(manual)</small>
+  | 9.9s <small>(FWD DCT)</small>
+  | 10.5s <small>(AWD DCT)</small>
+  }}
+| {{convert|190|km/h|mi/h|abbr=on}} <small>(manual/FWD DCT)</small><br />{{convert|185|km/h|mi/h|abbr=on}} <small>(AWD DCT)</small>
+|-
+! colspan="7" |Electric
+|-
+| Electric Lite / Electric SE
+| rowspan="2" |2018–2023
+| rowspan="2" |1-speed reduction gear
+| {{convert|136|PS|kW hp|0|abbr=on}} @ 2,600–8,000&nbsp;rpm
+| {{convert|40.15|kgm|0|abbr=on}} @ 0–2,400&nbsp;rpm
+| 9.7s–9.9s
+| {{convert|155|km/h|mi/h|abbr=on}}
+|-
+| Electric / Electric SEL
+| {{convert|204|PS|kW hp|0|abbr=on}} @ 3,800–8,000&nbsp;rpm
+| {{convert|40.15|kgm|0|abbr=on}} @ 0–3,600&nbsp;rpm
+| 7.6s–7.9s
+| {{convert|167|km/h|mi/h|abbr=on}}
+|}
+
+=== Special editions ===
+;Kona Iron Man Special Edition
+In 2019, Hyundai released a special [[Iron Man]] edition Kona (co-branded with [[Marvel Comics|Marvel]])<ref name= IronMan>{{cite web| url= https://www.hyundaiusa.com/kona-iron-man/index.aspx |title=Kona Iron Man Edition |website= hyundaiusa.com |publisher=[[Hyundai Motor Company]] |archive-url=https://web.archive.org/web/20190518180006if_/https://www.hyundaiusa.com/kona-iron-man/index.aspx  |archive-date=2019-05-18  |access-date= 2020-08-20}}</ref> to promote ''[[Avengers: Endgame]]''. The limited edition Kona was finished in matte gray with red accents and features blue daytime running lights, Stark Industries graphics, an Iron Man-themed instrument cluster, arc reactor imagery, and [[Tony Stark (Marvel Cinematic Universe)|Tony Stark]]'s signature on the dashboard.<ref name= IronMan /><ref name= autocar-IM>{{cite magazine|url=https://www.autocar.co.uk/car-news/new-cars/hyundai-kona-iron-man-edition-arrive-uk-march| title=Hyundai Kona Iron Man Edition to arrive in UK in March| last=Allan |first=Lawrence |date=2019-01-21 |magazine= [[Autocar (magazine)|Autocar]]|access-date=2019-03-21}}</ref> In the UK, 300 of the version were planned to be available.<ref name= autocar-IM />{{update after|2020|3|7}}<!-- and then what?  did they produce 300?  sell 300? -->
+
+<gallery widths="200" heights="133">
+File:Hyundai Kona Iron Man Edition Monrepos 2019 IMG 1936.jpg|Hyundai Kona Iron Man Edition front view
+File:Hyundai Kona Iron Man Edition Monrepos 2019 IMG 1934.jpg|Hyundai Kona Iron Man Edition rear view
+</gallery>
+
+===Safety===
+The first-generation Kona body is made from 51% advanced high strength steel with 'hot stamping' and adhesives for added rigidity.<ref>{{Cite web|url=http://www.endeavourautomotive.co.uk/hyundai/new-cars/kona/| title= All-New Hyundai Kona {{!}} Prices, Launch Date & Specs|website= endeavourautomotive.co.uk| access-date=2017-06-19}}</ref> Standard safety equipment in some countries includes six airbags, lane keeping assist and a driver attention monitor. Other features include automatic emergency braking with pedestrian detection, blind spot detection and a rear cross traffic alert.<ref>{{Cite news|url=https://www.whatcar.com/news/hyundai-kona/| title= New Hyundai Kona revealed|work=What Car?|access-date=2017-06-19|language=en}}</ref>
+{{Euro NCAP
+|align              =
+|year               = 2017
+|overall_stars      = 5
+|description        = Hyundai Kona 1.0 T-GDi (LHD)
+|reference_name     = Hyundai Kona (Standard) Euro NCAP (2017)
+|reference          = {{cite web|url=https://www.euroncap.com/en/results/hyundai/kona/29609 |title=Hyundai Kona (with Standard Equipment) |publisher=Euro NCAP |access-date=2018-02-11}}
+|adult_points       = 33.4
+|adult_percent      = 87
+|child_points       = 41.8
+|child_percent      = 85
+|pedestrian_points  = 26.4
+|pedestrian_percent = 62
+|safety_points      = 7.2
+|safety_percent     = 60
+}}
+The 2018 Kona was awarded "Top Safety Pick+" by the American [[Insurance Institute for Highway Safety|IIHS]].
+{| class="wikitable"
+|+[[Insurance Institute for Highway Safety|IIHS]] scores (2018)
+|Small overlap front (driver)
+| colspan="2" style="text-align:center;color:white;background:green" |Good
+| rowspan="7" |
+|-
+|Small overlap front (passenger)
+| colspan="2" style="text-align:center;color:white;background:green" |Good
+|-
+|Moderate overlap front (original test)
+| colspan="2" style="text-align:center;color:white;background:green" |Good
+|-
+|Side (original test)
+| colspan="2" style="text-align:center;color:white;background:green" |Good
+|-
+|Roof strength
+| colspan="2" style="text-align:center;color:white;background:green" |Good
+|-
+|Head restraints and seats
+| colspan="2" style="text-align:center;color:white;background:green" |Good
+|-
+|Headlights (varies by trim/option)
+| colspan="1" style="text-align:center;color:white;background:green" |Good
+| colspan="1" style="text-align:center;color:black;background:red" |Poor
+|-
+|Front crash prevention: vehicle-to-vehicle
+| colspan="2" style="text-align:center;color:white;background:green" |Superior
+| rowspan="2" style="text-align:center" |Optional<br/>system
+|-
+|Front crash prevention: vehicle-to-pedestrian (Day)
+| colspan="2" style="text-align:center;color:white;background:green" |Advanced
+|-
+|Child seat anchors (LATCH) ease of use
+| colspan="2" style="text-align:center;color:black;background:orange" |Marginal
+|
+|}
+
+{{ANCAP
+|overall_stars=5
+|year=2017
+|reference_code=dc1c52
+|description=Hyundai Kona
+|frontal_offset=14.07/16
+|side_impact=16/16
+|pole=2/2
+|seat_belt_reminders=3/3
+|whiplash_protection=Good
+|pedestrian_protection=Adequate
+|electronic_stability_control=Standard
+}}
+
+== {{Anchor|SX2|second}} Second generation (SX2; 2023) ==
+{{Infobox automobile
+| name = Second generation
+| image = Hyundai Kona Inspiration SX2 Atlas White (4) (cropped).jpg
+| caption = Hyundai Kona Inspiration (SX2)
+| manufacturer = 
+| model_code = SX2<ref>{{Cite web |title=Hyundai Kona SX2 |url=https://www.car.info/en-se/hyundai/kona/sx2-40691636 |access-date=2023-11-25 |website=car.info}}</ref>
+| aka = Hyundai Kauai (Portugal)
+| production = 2023–present
+| model_years = 2024–present <ref>{{Cite web|url=https://www.carscoops.com/2023/04/2024-hyundai-kona-electric-debuts-with-two-powertrain-options-and-up-to-260-miles-of-range/|title=2024 Hyundai Kona Electric Brings Its Futuristic Face To America With Two Powertrain Options|first=Thanos|last=Pappas|date=5 April 2023|website=Carscoops}}</ref>
+| assembly = {{ubl
+  | South Korea: [[Ulsan]] ([[Hyundai Ulsan Plant|Ulsan Plant 1, 3]])
+  | Czech Republic: [[Nošovice]] ([[Hyundai Motor Manufacturing Czech|HMMC]], electric only)
+  | Indonesia: [[Cikarang]] ([[Hyundai Motor Manufacturing Indonesia|HMMI]], electric only)
+ }}
+| class = 
+| platform = [[Hyundai-Kia K platforms#K3 platform|Hyundai-Kia K3]]
+| related = [[Kia Niro#SG2|Kia Niro (SG2)]]<ref name="auto">{{Cite web|url=https://www.carscoops.com/2022/12/2024-hyundai-kona-debuts-with-ruggedly-good-looks-as-well-as-ice-hybrid-and-ev-options/|title=2024 Hyundai Kona Debuts With Ruggedly Good Looks And ICE, Hybrid, EV Options|date=19 December 2022|website=Carscoops}}</ref>
+| engine = {{ubl
+  | '''[[Petrol engine|Petrol]]:'''
+  | 1.0 L ''[[Hyundai Smartstream engine#G3LE|Smartstream G1.0]]'' [[Turbocharger|T]]-[[Gasoline direct injection|GDi]] [[Straight-three engine|I3]] (Mild hybrid)
+  | 1.6 L ''[[Hyundai Smartstream engine#G4FP|Smartstream G1.6]]'' T-GDi [[Straight-four engine|I4]]
+  | 2.0 L ''[[Hyundai Smartstream engine#G4NS|Smartstream G2.0]]'' [[Multi-point injection|MPi]] I4
+  | '''[[Petrol engine|Petrol]] [[Hybrid electric vehicle|hybrid]]:'''
+  | 1.6 L ''[[Hyundai Smartstream engine#G4LL|Smartstream G1.6]]'' GDi HEV I4
+  }}
+| motor = [[Permanent magnet synchronous motor]] (Hybrid)<ref>{{Cite web|url=https://www.carscoops.com/2023/01/hyundai-shows-us-more-of-the-new-kona-details-ice-and-hybrid-powertrains/|title=Hyundai Shows Us More Of The New Kona, Details ICE And Hybrid Powertrains|date=18 January 2023|website=Carscoops}}</ref>
+| drivetrain = 
+| battery = 48.6 kWh (Electric Standard Range)<br />64.8 kWh (Electric Long Range)
+| range = 
+| electric_range = Up to {{cvt|490|km|mi|0}} ([[Worldwide Harmonised Light Vehicles Test Procedure|WLTP]])<ref>{{Cite web|url=https://www.carscoops.com/2023/03/2024-hyundai-kona-electric-offers-two-batteries-and-304-mile-range/|title=2024 Hyundai Kona Electric Offers Two Batteries And 304+ Mile Range|date=7 March 2023|website=Carscoops}}</ref><ref>{{Cite web|url=https://insideevs.com/news/655866/2024-hyundai-kona-electric-powertrain-specs-are-out/|title=2024 Hyundai Kona Electric Powertrain Specs Are Out|date=March 6, 2023|website=InsideEVs}}</ref>
+| powerout = {{cvt|99|kW|hp}} (Electric Standard Range)<br />{{cvt|150|kW|hp|0}} (Electric Long Range)
+| transmission = {{ubl
+  | 6-speed [[Manual transmission|manual]]
+  | 8-speed [[Automatic transmission|automatic]]
+  | 6-speed [[List of Hyundai transmissions#D6KF1|D6KF1]] [[Dual-clutch transmission|DCT]]
+  | 7-speed [[List of Hyundai transmissions#D7UF1|D7UF1]] DCT
+  |[[Continuously variable transmission|CVT]]<ref>{{Cite web|url=https://www.motor1.com/news/631720/2024-hyundai-kona-engine-details/|title=2024 Hyundai Kona Design Fully Revealed And Engines Detailed|website=Motor1.com}}</ref>
+  |1-speed reduction gear
+  }}
+| wheelbase = {{cvt|2660|mm|in|1}}
+| length = {{cvt|4350-4385|mm|in|1}}
+| width = {{cvt|1825|mm|in|1}}
+| height = {{cvt|1575-1590|mm|in|1}}
+| weight = {{cvt|1295-1525|kg|lb|0}}<br />{{cvt|1615-1795|kg|lb|0}} (Electric)
+| predecessor = 
+| successor = 
+| sp = uk
+| designer = Sergey Konkov, Hyun-doo Lee, Fongs Choi, Kang In-soo
+| charging = [[V2L]]: 4 kW, 250 V, 16 A (BEV)<ref>{{Cite AV media |url=https://www.youtube.com/watch?v=mfHFrgr63Pg |title=Kona Electric cooked! (Death by V2L, in the name of science.) {{!}} Auto Expert John Cadogan |date=2024-03-19 |last=Auto Expert John Cadogan |access-date=2024-09-12 |via=YouTube}}</ref>
+}}
+The second-generation Kona was revealed in December 2022. It is available with petrol, mild hybrid, hybrid and battery electric models, while diesel engine options are no longer offered.<ref>{{Cite web |date=2022-12-19 |title=2024 Hyundai Kona Shows Off Stylish Design with Full-Width LEDs |url=https://www.caranddriver.com/news/a42287012/2024-hyundai-kona-revealed/ |access-date=2022-12-20 |website=Car and Driver |language=en-us}}</ref><ref>{{Cite web |last=Bruce |first=Chris |date=2022-12-19 |title=2024 Hyundai Kona Debuts Bigger Body, Four Trims Coming |url=https://www.motor1.com/news/627375/2024-hyundai-kona-interior-exterior-design-debut/ |access-date=2022-12-20 |website=Motor1.com |language=en}}</ref>
+
+According to Hyundai, the second-generation Kona was first designed as a battery electric vehicle before being adapted for other variants. Compared to the previous generation, the vehicle has a significantly larger footprint with around {{cvt|150|mm|in|1}} additional length (depending on the variant) and a {{cvt|60|mm|in|1}} longer wheelbase.<ref>{{Cite web |date=2022-12-20 |title=2023 Hyundai Kona revealed - SUV designed as an EV first; larger; also available with ICE and hybrid power |url=https://paultan.org/2022/12/20/2023-hyundai-kona-revealed/ |access-date=2023-09-26 |website=Paul Tan's Automotive News |language=en-US}}</ref> As the result, the rear legroom is {{cvt|31|mm|in|1}} larger at {{cvt|925|mm|in|1}}. With the second-row seat folded, the vehicle has {{convert|466|l|cuft|1}} of boot space ([[Verband der Automobilindustrie|VDA]] standard) or {{convert|723|l|cuft|1}} (SAE standard). The [[drag coefficient]] is rated 0.27.<ref name=":2">{{Cite web |date=2023-03-07 |title=2023 Hyundai Kona Electric - larger than before; 48.4 and 65.4 kWh batteries; up to 490 km EV range, 218 PS |url=https://paultan.org/2023/03/07/2023-hyundai-kona-electric-details/ |access-date=2023-09-26 |website=Paul Tan's Automotive News |language=en-US}}</ref>
+
+The front clip is decorated by thin horizontal lamps, and the wheel arch cladding design of the side parts is integrated with the front and rear lamps.<ref name="auto" /> 
+<gallery widths="200" heights="150">
+File:Hyundai Kona Inspiration SX2 Atlas White (11).jpg|Rear view
+File:Hyundai Kona Hybrid 1.6 HEV Inspiration SX2 HEV Atlas White (3) (cropped).jpg|Hyundai Kona Hybrid
+File:Hyundai Kona Inspiration SX2 Black Monotone (6).jpg|Interior
+</gallery>
+
+=== Kona Electric ===
+The second-generation Kona Electric is available since launch. The variant is distinguished with pixelated front and rear thin light bars and blocked front grille, while a Parametric Pixel design feature has been applied to the front and bottom of the rear bumper.<ref name=":2" />
+
+The Kona Electric is built with a 400 V electrical architecture, which impairs its DC fast charging times comparing to other Hyundai EVs built on the more recent 800 V architecture. Hyundai claims a 10-80% state of charge can be accomplished in 41 minutes, against the 18 minutes it claims for some of their 800V models.<ref>{{cite web | url=https://www.hyundai.com/worldwide/en/eco/ioniq5/charging | title=IONIQ 5 Charging &#124; Eco - Hyundai Worldwide }}</ref> It also includes vehicle-to-load (V2L) support, with different maximum outputs depending on the market.
+
+Two battery capacities are offered, which are 48.4 kWh (Standard Range) and 65.4 kWh (Long Range) powering a front-mounted electric motor.<ref name=":2" />
+
+The Kona Electric N-Line was revealed on 17 January 2024.<ref>{{Cite web |last=Chilton |first=Chris |date=2024-01-17 |title=Hyundai Kona Electric N Line Has N Looks But NNNo Extra Power |url=https://www.carscoops.com/2024/01/hyundai-kona-electric-n-line-has-n-looks-but-nnno-extra-power/ |access-date=2024-01-19 |website=Carscoops}}</ref><gallery widths="200" heights="110">
+File:Hyundai Kona Elektro Pime-Paket (II) – f 08072024.jpg|Kona Electric (front)
+File:Hyundai Kona Elektro Pime-Paket (II) – h 08072024.jpg|Kona Electric (rear)
+</gallery>
+
+=== N-Line ===
+<gallery widths="200">
+File:2024 Hyundai Kona N Line AWD in Meta Blue, Front Right, 09-30-2023.jpg|Kona N-Line
+File:2024 Hyundai Kona N Line AWD in Meta Blue, Rear Right, 09-30-2023.jpg|Kona N-Line (rear)
+File:Hyundai Kona Electric N Line SX2 EV Meta Blue Pearl (1).jpg|Kona Electric N-Line
+File:Hyundai Kona Electric N Line Long Range Inspiration SX2 EV Neotronic Yellow (10).jpg|Kona Electric N-Line (rear)
+</gallery>
+
+===Markets===
+
+==== Asia ====
+
+===== Brunei =====
+The second-generation Kona was launched in Brunei on 17 May 2024, in a sole N Line variant powered by a 1.6-litre turbocharged petrol engine.<ref>{{Cite web |date=18 May 2024 |title=Dynamic driving experience with new sporty SUV |url=https://borneobulletin.com.bn/dynamic-driving-experience-with-new-sporty-suv |access-date=18 May 2024 |website=Borneo Bulletin |language=en}} {{subscription required}}</ref> The base 2.0-litre model was added in 30 May 2025.<ref>{{Cite web |date=31 May 2025 |title=New Hyundai car models unveiled |url=https://borneobulletin.com.bn/new-hyundai-car-models-unveiled |access-date=31 May 2025 |website=Borneo Bulletin |language=en}} {{subscription required}}</ref>
+
+===== Indonesia =====
+The second-generation Kona was launched for the Indonesian market on 17 July 2024 at the [[Indonesia International Auto Show#2024|31st Gaikindo Indonesia International Auto Show]], only available as the battery electric version, the Kona Electric.<ref>{{Cite web |last=Nurhuda |first=Septian Farhan |date=2024-07-17 |title=Harga Hyundai Kona Electric Diumumkan, Mulai Rp 499 Juta |trans-title=Hyundai Kona Electric Price Announced, Starting at IDR 499 Million |url=https://oto.detik.com/mobil-listrik/d-7443005/harga-hyundai-kona-electric-diumumkan-mulai-rp-499-juta |access-date=2024-07-17 |website=detikOto |language=id}}</ref><ref>{{Cite web |last=Biondi |first=Ahmad |date=2024-07-17 |title=Hyundai Andalkan Penjualan Kona EV di GIIAS 2024 |trans-title=Hyundai Relies on Kona EV Sales at GIIAS 2024 |url=http://www.otodriver.com/berita/2024/hyundai-andalkan-penjualan-kona-ev-di-giias-2024-hyudejba024 |access-date=2024-07-17 |website=Oto Driver |language=id}}</ref> Pre-orders began on 4 June 2024.<ref>{{Cite web |last=Widiutomo |first=Aditya |date=2024-06-04 |title=Hyundai Kona Electric Generasi Terbaru Sudah Bisa Dipesan, Harga Rp 500 Jutaan |trans-title=The latest generation of the Hyundai Kona Electric is now available for pre-order, priced at around Rp 500 million. |url=https://otodriver.com/berita/2024/hyundai-kona-electric-generasi-terbaru-sudah-bisa-dipesan-harga-rp-500-jutaan-hyudefgiaan |access-date=2024-10-09 |website=Oto Driver |language=id}}</ref> A pre-production model was showcased at the [[Indonesia International Motor Show#2024|31st Indonesia International Motor Show]], held from 15 to 25 February 2024, to mark its initial Indonesian debut,<ref>{{Cite web |last=Biondi |first=Ahmad |date=2024-02-15 |title=Hyundai Kona EV Resmi Diperkenalkan, Harga Rp 500-600 Jutaan |trans-title=The Hyundai Kona EV is officially launched, priced between Rp 500 million and Rp 600 million. |url=http://otodriver.com/berita/2024/hyundai-kona-ev-resmi-diperkenalkan-harga-rp-500-600-jutaan-hyuddhedaan |access-date=2024-02-17 |website=Oto Driver |language=id}}</ref> and later through select public outings in the country at the same year, prior to the 31st GIIAS. Initial variants for the Kona Electric were the Style, Prime and Signature, with battery options include the Standard Range (48.6&nbsp;kWh, all types) and Long Range (64.8&nbsp;kWh, Prime and Signature).<ref>{{Cite web |last=Fachrulrazi |first=Ardaniel |date=2024-07-18 |title=GIIAS 2024: Hyundai Luncurkan All-New KONA Electric, Harga Mulai Rp 499 Juta! |trans-title=GIIAS 2024: Hyundai Launches the All-New KONA Electric, Prices Starting at IDR 499 Million! |url=https://autonetmagz.com/giias-2024-hyundai-luncurkan-all-new-kona-electric-harga-mulai-rp-499-juta/129650/ |access-date=2024-10-09 |website=AutonetMagz :: Review Mobil dan Motor Baru Indonesia |language=id}}</ref> It is assembled at the [[Hyundai Motor Manufacturing Indonesia|Hyundai Motor Manufacturing Indonesia (HMMI) plant]] in [[Cikarang]], [[Bekasi Regency|Bekasi]], [[West Java]],<ref>{{Cite web |last=Jonathan |first=Billy |date=2023-11-29 |title=Hyundai Kona Listrik Bakal Dirakit di Indonesia Pertengahan 2024 |trans-title=The Hyundai Kona Electric Will Be Assembled in Indonesia in Mid-2024 |url=https://oto.detik.com/mobil/d-7063085/hyundai-kona-listrik-bakal-dirakit-di-indonesia-pertengahan-2024 |access-date=2024-05-24 |website=detikOto |language=id}}</ref> with the first trial units rolling out on 3 June 2024, during the establishment of Hyundai LG Indonesia (HLI) Green Power EV battery plant in [[Karawang|Karawang, West Java]],<ref>{{Cite web |last=Herawati |first=Yunisa |date=2024-07-03 |title=Hyundai Kona Electric Terbaru Resmi Diproduksi di Indonesia, Pakai Baterai Buatan Lokal |trans-title=The Latest Hyundai Kona Electric is Officially Produced in Indonesia, Using a Locally Made Battery |url=https://www.viva.co.id/otomotif/mobil/1728856-hyundai-kona-electric-terbaru-resmi-diproduksi-di-indonesia-pakai-baterai-buatan-lokal |access-date=2024-07-14 |website=Viva |language=id}}</ref> while its mass production began on 16 July 2024.<ref>{{Cite web |last=Rahadiansyah |first=Rangga |date=2024-07-16 |title=Mobil Listrik Pertama yang Pakai Baterai Buatan RI Resmi Diproduksi |trans-title=The First Electric Car Using Indonesian-Made Batteries Officially Goes into Production |url=https://oto.detik.com/mobil-listrik/d-7441897/mobil-listrik-pertama-yang-pakai-baterai-buatan-ri-resmi-diproduksi |access-date=2024-07-16 |website=detikOto |language=id}}</ref> It is the first battery electric vehicle built in Indonesia to use a locally produced battery.<ref>{{Cite web |last=Dananjaya |first=Dio |date=2024-02-23 |title=Hyundai Pastikan Kona Electric Terbaru Bakal Dirakit Lokal |trans-title=Hyundai Confirms New Kona Electric Will Be Assembled Locally |url=https://otomotif.kompas.com/read/2024/02/23/074200715/hyundai-pastikan-kona-electric-terbaru-bakal-dirakit-lokal |access-date=2024-05-24 |website=Kompas |language=id}}</ref>
+
+The N Line variant was added on 12 December 2024. It is the first N Line model to be marketed in Indonesia.<ref>{{Cite web |last=Nurhuda |first=Septian Farhan |date=2024-12-12 |title=Hyundai Kona Electric N-Line Meluncur di Indonesia, Segini Harganya |trans-title=Hyundai Kona Electric N-Line Launches in Indonesia, Here's the Price |url=https://oto.detik.com/mobil-listrik/d-7682994/hyundai-kona-electric-n-line-meluncur-di-indonesia-segini-harganya |access-date=2024-12-12 |website=detikOto |language=id}}</ref>
+
+===== Japan =====
+The Kona EV was launched in Japan in November 2023 in three trims: Casual, Voyage, and Lounge, with the N-Line model introduced later.<ref>{{Cite web |last= |first= |title=コナ（ヒョンデ）のカタログ｜中古車なら【カーセンサーnet】 |trans-title=Kona (Hyundai) Catalog {{!}} Used Cars [Carsensor.net] |url=https://www.carsensor.net/catalog/hyundai/kona/ |access-date=2025-07-30 |website=carsensor |language=ja}}</ref>
+
+===== Philippines =====
+The second-generation Kona was launched in the Philippines on 20 June 2025, it is available in two trim levels: GLS and Premium, powered by the 1.6-litre Hybrid petrol powertrain.<ref>{{Cite web |date=2025-06-20 |title=Hyundai Kona Returns With Hybrid Power. Yours Starting At P 1.528M (w/ Specs) |url=https://www.carguide.ph/2025/06/hyundai-kona-returns-with-hybrid-power.html |access-date=2025-06-20 |website=CarGuide.PH {{!}} Philippine Car News, Car Reviews, Car Prices}}</ref>
+
+===== Singapore =====
+The second-generation Kona was first launched in Singapore on 8 August 2023, in a sole variant powered by a 1.6-litre Hybrid petrol.<ref>{{Cite web |date=2023-08-08 |title=Hyundai Kona Hybrid launched in Singapore |url=https://www.sgcarmart.com/articles/news/hyundai-kona-hybrid-launched-in-singapore-33539 |website=Sgcarmart |language=en}}</ref> The electric version of the Kona was launched in March 2024, with three different variants, the Standard Range, Standard Range Sunroof and Long Range Sunroof.<ref>{{cite website|url=https://hyundai.com.sg/local-stories/240326-Car-review-Bigger-better-Hyundai-Kona-Electric/|title=Car review: Bigger, better Hyundai Kona Electric|publisher=Hyundai Singapore|date=March 26, 2024}}</ref>
+
+====Europe====
+The second-generation Kona made its European debut in April 2023. Five powertrain options are available: 1.0-litre T-GDi turbocharged petrol with a 48 volt [[mild hybrid]] system,<ref>{{Cite web |title=KONA {{!}} Performance |url=https://www.hyundai.com/eu/models/all-new-kona/performance.html |access-date=2024-09-11 |website=Hyundai |language=en}}</ref> 1.6-litre T-GDi turbocharged petrol, 1.6-litre Hybrid petrol and an Electric version with two battery options. The all-wheel drive option is available for the 1.6-litre T-GDi petrol engine. For the European market, the Kona Electric is assembled in Hyundai Motor Manufacturing Czech plant in Nošovice, Czech Republic, and the other non-electric Kona variants are imported from South Korea.<ref>{{Cite web |last=Schonfëld |first=Markus |date=2023-08-21 |title=Verbrenner ab 26.900 Euro, Elektro ab 41.990 Euro |trans-title=Combustion engine from 26,900 euros, electric from 41,990 euros |url=https://www.auto-motor-und-sport.de/neuheiten/neuer-hyundai-kona-kommt-2023/ |website=Auto Motor Sport |language=de}}</ref><ref>{{Cite web |last=Martin |first=Charlie |date=2023-04-14 |title=2023 Hyundai Kona price and specs |url=https://www.autocar.co.uk/car-news/new-cars/2023-hyundai-kona-priced-%C2%A325725-uk |website=Auto Car |language=en}}</ref>
+==== Middle East ====
+The second-generation Kona was launched in the Middle East on 10 August 2023. It is available in three powertrains; 1.6-litre T-GDi turbocharged petrol engine, 2.0-litre MPi petrol engine, and 1.6-litre hybrid petrol engine.<ref>{{Cite web |date=2023-08-12 |title=Hyundai reveals all-new, multi-talented Kona SUV |url=https://arab.news/b8rcf |access-date=2023-12-25 |website=Arab News |language=en}}</ref>
+
+==== North America ====
+The second-generation Kona made its North American debut in September 2023 for the 2024 model year. Three powertrain options are available: 2.0-litre MPi petrol, 1.6-litre T-GDi turbocharged petrol, and the Electric version (with either Standard Range and Long Range battery options).
+{| class="wikitable"
+|+Trims
+!United States<ref>{{Cite web |last=Webb |first=Mark |date=2023-09-12 |title=2024 Hyundai Kona Price Starts At $25,435, Limited Is $32,985 |url=https://www.motor1.com/news/686395/2024-hyundai-kona-base-price-25435/ |website=Motor1 |language=en}}</ref><ref>{{Cite web |last=Randall |first=Chris |date=2023-12-12 |title=Hyundai reveals US prices for the 2024 Kona Electric |url=https://www.electrive.com/2023/12/12/hyundai-reveals-us-prices-for-the-2024-kona-electric/ |website=electrive |language=en}}</ref>
+!Canada<ref>{{Cite web |last=Boshouwers |first=Derek |date=2023-08-04 |title=2024 Hyundai Kona Priced at $25,999 in Canada The price increases compared to the outgoing model are… noticeable |url=https://www.auto123.com/en/news/amp/2024-hyundai-kona-pricing-canada/70591/ |website=Auto 123 |language=en}}</ref><ref>{{Cite web |last=Boshouwers |first=Derek |date=2023-11-28 |title=2024 Hyundai Kona Electric: Pricing Announced for Canada The base Kona Electric Preferred trim is set at $46,399 |url=https://www.auto123.com/en/news/amp/2024-hyundai-kona-electric-pricing-canada/70967/ |website=Auto 123 |language=en}}</ref>
+|-
+|SE
+|Essential
+|-
+|SEL
+|Preferred
+|-
+| colspan="2" |N Line
+|-
+|Limited
+|N/A
+|}
+In August 2024, for the 2025 model year, the N Line S trim was introduced to sit below the N Line trim, the SEL trim equipped with the Convenience package became a standalone trim level, and the N Line trim was made available for the Kona Electric model.<ref>{{Cite web |last=Ramsey |first=Jonathon |date=2024-08-02 |title=2025 Hyundai Kona makes small changes a year after second-gen debut |url=https://www.autoblog.com/features/2025-hyundai-kona-makes-small-changes-a-year-after-second-gen-debut |access-date=2024-09-28 |website=Autoblog: Car News, Reviews and Buying Guides |language=en}}</ref>
+
+In July 2025, for the 2026 model year, the SEL Sport and SLE Convenience trims were introduced. The 2026 model year change saw the SEL, SEL Convenience, N Line S, N Line trims discontinued for the regular Kona models. Also for the 2026 model year, the SEL, Limited, and N Line trims were discontinued for the Kona Electric models as well as the Long Range battery option.<ref>{{Cite web |last=Furlong |first=Karl |date=2025-07-17 |title=Every 2026 Hyundai Model Year Update You Need To Know |url=https://www.autoblog.com/news/2026-hyundai-model-year-updates |access-date=2025-07-28 |website=Autoblog |language=en}}</ref>
+
+==== Oceania ====
+
+===== Australia =====
+The second-generation Kona was launched in Australia on 7 July 2023, with four trim levels: Base, Premium, N Line and N Line Premium. At launch, three powertrain options available: a 2.0-litre MPi petrol, a 1.6-litre Hybrid petrol and 1.6-litre T-GDi turbocharged petrol; the latter powertrain is equipped with all-wheel drive system as standard. A sportier powertrain is available for the Kona for the first time for Australia, with the option of the N Line Package.<ref>{{Cite web |date=2024-05-04 |title=2024 Hyundai Kona Hybrid review: The new default. |url=https://henryman.net/2024/05/05/2024-hyundai-kona-hybrid-review/ |access-date=2024-05-19 |website=The Connected by Henry Man |language=en}}</ref> In July 2025, the 1.6-litre T-GDi turbocharged petrol engine option equipped with all-wheel drive was discontinued therefore the Kona in Australia was no longer available with all-wheel drive option, and the new mid-range Elite trim was added.<ref>{{Cite web |last=Hickey |first=Jordan |date=2025-07-23 |title=Hyundai Kona N Line 1.6-litre turbo AWD deleted for 2026 update |url=https://www.drive.com.au/news/2026-hyundai-kona-price-and-specs-turbo-petrol-awd-axed-new-elite-grades-added/ |access-date=2025-08-15 |website=Drive |language=en}}</ref>
+
+The Kona Electric debuted in Australia on 9 January 2024, with three variants: Standard Range, Extended Range and Premium Extended Range.<ref>{{Cite web |last=Quick |first=Jack |date=2024-01-09 |title=2024 Hyundai Kona Electric price and specs: Lower base price, more range |url=https://www.carexpert.com.au/car-news/2024-hyundai-kona-electric-price-and-specs-lower-base-price-more-range |access-date=2024-03-25 |website=CarExpert |language=en}}</ref>
+
+===== New Zealand =====
+The second-generation Kona was launched in New Zealand on 21 November 2023, with two trim levels: Active and Limited. A sportier N-Line styling package is available for the first time in New Zealand, it comes as option on the former trim but it is standard on the latter trim. At launch, three powertrain options were available: a 2.0-litre MPi petrol, a 1.6-litre Hybrid petrol and 1.6-litre T-GDi turbocharged petrol; the latter powertrain comes with HTRAC all-wheel drive system as standard.<ref>{{Cite web |last=Barry |first=Robert |date=2023-11-21 |title=New Kona now available in Hyundai dealerships nationally |url=https://autotalk.co.nz/new-kona-now-available-in-hyundai-dealerships-nationally/ |website=Auto Talk |language=en}}</ref>
+
+===Powertrain===
+{| class="wikitable" style="text-align:left; font-size:90%;"
+|-
+|+ Specs<ref>{{Cite web |title=제원 |trans-title=Specifications |url=https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-kona/spec |website=현대닷컴 |language=ko}}</ref><ref>{{Cite web |title=제원 |trans-title=Specifications |url=https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-kona-hybrid/spec |website=현대닷컴 |language=ko}}</ref><ref>{{cite web |title=제원 |trans-title=Specifications |url=https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-kona-electric/spec |language=ko}}</ref><ref>{{cite web|url=https://hyundai-website-assets.s3-eu-west-1.amazonaws.com/shared-assets/production/specifications/brochure_all_new_kona_price_and_spec.pdf|title=Brochure. All-new KONA|website=Hyundai|access-date=28 August 2023}}</ref><ref>{{cite web | url=https://www.hyundai.com/uk/en/models/all-new-kona-electric.html | title=All-new KONA Electric }}</ref>
+! Model
+! Year
+! Transmission
+! Power
+! Torque
+! 0–100&nbsp;km/h<br />(0-62&nbsp;mph)<br />(Official)
+! Top speed
+|-
+! colspan="7" |Petrol
+|-
+| rowspan="2" |''Smartstream G1.0'' T-GDi
+| rowspan="6" |2023–present
+| 6-speed manual
+| rowspan="2" |{{convert|120|PS|kW hp|0|abbr=on}} @ 6,000&nbsp;rpm
+| {{convert|17.5|kgm|0|abbr=on}} @ 1,500–4,000&nbsp;rpm
+| 11.8s
+| rowspan="2" |{{convert|181|km/h|mi/h|abbr=on}}
+|-
+| 7-speed [[Dual-clutch transmission|DCT]]
+| {{convert|20.4|kgm|0|abbr=on}} @ 2,000–3,500&nbsp;rpm
+| 11.7s
+|-
+| rowspan="3" |''Smartstream G1.6'' T-GDi
+| 6-speed manual
+| rowspan="3" |{{convert|198|PS|kW hp|0|abbr=on}} @ 6,000&nbsp;rpm
+| rowspan="3" |{{convert|27|kgm|0|abbr=on}} @ 1,600–4,500&nbsp;rpm
+| 8.7s
+| {{convert|210|km/h|mi/h|0|abbr=on}}
+|-
+| 8-speed automatic
+|
+|
+|-
+| 7-speed DCT
+| 7.8s
+| {{convert|210|km/h|mi/h|0|abbr=on}}
+|-
+| ''Smartstream G2.0'' MPi
+| CVT
+| {{convert|149|PS|kW hp|0|abbr=on}} @ 6,200&nbsp;rpm
+| {{convert|18.3|kgm|0|abbr=on}} @ 4,500&nbsp;rpm
+|
+|
+|-
+! colspan="7" |Hybrid
+|-
+| ''Smartstream G1.6'' GDi Hybrid
+| 2023–present
+| 6-speed DCT
+| {{convert|141|PS|kW hp|0|abbr=on}} @ 5,700&nbsp;rpm
+| {{convert|27|kgm|0|abbr=on}} @ 4,000&nbsp;rpm
+| 11.2s
+| {{convert|165|km/h|mi/h|0|abbr=on}}
+|-
+! colspan="7" |Electric
+|-
+| rowspan=2|''Standard Range''
+| rowspan=4|2023–present
+| rowspan=4|1-speed reduction gear
+| {{convert|135|PS|kW hp|0|abbr=on}}<ref name="auto1">Global, except Europe</ref>
+| rowspan=4|{{convert|26|kgm|0|abbr=on}}
+|
+|
+|-
+| {{convert|156|PS|kW hp|0|abbr=on}}<ref name="auto2">Europe</ref>
+| 8.8s
+| {{convert|162|km/h|mi/h|0|abbr=on}}
+|-
+| rowspan=2|''Long Range''
+| {{convert|204|PS|kW hp|0|abbr=on}}<ref name="auto1"/>
+| 7.9s
+|
+|-
+| {{convert|218|PS|kW hp|0|abbr=on}}<ref name="auto2"/>
+| 7.8s
+| {{convert|172|km/h|mi/h|0|abbr=on}}
+|}
+{{clear}}
+
+===Safety===
+{| class="wikitable"
+|+
+|
+{{ANCAP
+|overall_stars=5
+|year=2023
+|reference_code=dc1c52
+|description=Hyundai Kona
+|adult_points=32.13
+|adult_percent=80
+|child_points=41.62
+|child_percent=84
+|pedestrian_points=40.85
+|pedestrian_percent=64
+|safety_points=11.17
+|safety_percent=62
+}}
+|{{Euro NCAP
+|align              =
+|year               = 2023
+|overall_stars      = 4
+|description        = Hyundai Kona GLS electric (LHD)
+|reference_name     = Hyundai Kona Test Results (2023)
+|reference          = https://cdn.euroncap.com/media/79859/euroncap-2023-hyundai-kona-datasheet.pdf
+|adult_points       = 32.1
+|adult_percent      = 80
+|child_points       = 40.8
+|child_percent      = 83
+|pedestrian_points  = 40.8
+|pedestrian_percent = 64
+|safety_points      = 10.8
+|safety_percent     = 60
+}}
+|
+{| class="wikitable"
+|+[[Insurance Institute for Highway Safety|IIHS]] scores<ref>{{Cite web |title=2024 Hyundai Kona 4-door SUV |url=https://www.iihs.org/ratings/vehicle/Hyundai/kona-4-door-suv/2024 |access-date=2024-06-17 |website=IIHS-HLDI crash testing and highway safety |language=en}}</ref>
+|Small overlap front 
+| style="text-align:center;color:white;background:green" |Good
+|-
+|Moderate overlap front (updated test)
+| style="text-align:center;color:white;background:green" |Good
+|-
+|Side (updated test)
+| style="text-align:center;color:white;background:green" |Good
+|-
+|Headlights (varies by trim/option)
+| colspan="1" style="text-align:center;color:black;background:yellow" |Acceptable
+|-
+|Front crash prevention: vehicle-to-pedestrian
+| style="text-align:center;color:white;background:green" |Superior
+|-
+|Seatbelt reminders
+| style="text-align:center;color:white;background:green" |Good
+|-
+|Child seat anchors (LATCH) ease of use
+| style="text-align:center;color:black;background:orange" |Marginal
+|}
+|}
+
+=== Recall ===
+In April 2024, Hyundai Australia recalled over 1,700 Kona cars equipped with the 1.6-litre T-GDi turbocharged petrol engine, as they pose a potential fire hazard. The issue relates to a manufacturing defect, the bracket that retains the [[Engine control unit|Engine Control Unit]] (ECU) could interfere with the vehicle wiring in the event of a collision, causing a short circuit results in a vehicle fire. Kona models that were built from the 2023 model year were affected by the recall.<ref>{{Cite web |last=Fisk |first=Kathryn |date=2024-04-05 |title=2023 Hyundai Kona recalled in Australia for electrical fire risk |url=https://www.drive.com.au/news/2023-hyundai-kona-recall-electrical-fire-risk/ |access-date=2024-04-07 |website=Drive |language=en-AU}}</ref>
+
+==Awards==
+At the 2019 [[North American International Auto Show]] in [[Detroit]], both the electric and non-electric versions were announced as the winners of the 2019 [[North American Car of the Year|North American Utility Vehicle of the Year]], the first for a subcompact crossover SUV in its award history.<ref>{{cite web|date=2019-01-14|title=Winners of the 2019 North American Car, Utility and Truck of the Year Announced: Genesis G70, Hyundai Kona/Kona EV, and Ram 1500|url=https://northamericancaroftheyear.org/winners-of-the-2019-north-american-car-utility-and-truck-of-the-year-announced/|access-date=2019-07-24|website=northamericancaroftheyear.org|publisher=North American Car, Utility and Truck of the Year Awards}}</ref>
+
+''[[U.S. News & World Report]]'' ranked the Hyundai Kona at No. 1 (tied with the [[Kia Soul]] and [[Mazda CX-30]]) on its list of Best Subcompact SUVs for 2022, giving it a score of 8.4 out of 10.<ref>{{cite news |url=https://cars.usnews.com/cars-trucks/rankings/subcompact-suvs |title=Best Subcompact SUVs for 2022 |newspaper=[[U.S. News & World Report]] |access-date=2022-04-14}}</ref>
+
+In 2023, Hyundai Kona won the 'Car of the Year' prize at the Auto Express New Car Awards.<ref>{{Cite web |title=Car of the Year 2023: Hyundai Kona |url=https://www.autoexpress.co.uk/hyundai/kona/360543/car-year-2023-hyundai-kona |access-date=13 November 2023 |website=Auto Express}}</ref>
+
+==Sales==
+===Global sales===
+{| class="wikitable"
+|-
+! Year
+!Kona<ref name="irsales" />
+!Kona Electric<ref name="irsales" />
+!Total<ref name="irsales" />
+|-
+|2017
+|60,906
+|
+|60,906
+|-
+| 2018
+|239,452
+|22,787
+|262,239
+|-
+| 2019
+|270,169
+|48,451
+|318,620
+|-
+|2020
+|227,825
+|85,313
+|313,138
+|-
+|2021
+|187,560
+|45,610
+|233,170
+|-
+|2022
+|172,089
+|56,611
+|228,700
+|-
+|2023
+|219,761
+|70,871
+|290,632
+|-
+|2024
+|232,605
+|52,368
+|284,973
+|}
+
+===Regional sales===
+{|class="wikitable"
+|-
+! Year
+!South Korea<ref name="irsales" />
+!Europe<ref>{{Cite web|date=2017-12-04|title=Hyundai Kona European sales figures|url=https://carsalesbase.com/europe-hyundai-kona/|access-date=2021-01-28|website=carsalesbase.com|language=en-US}}</ref>
+! U.S.<ref>{{Cite web|date=2018-03-02|title=Hyundai Kona US car sales figures|url=https://carsalesbase.com/us-hyundai-kona/|access-date=2021-01-12|website=carsalesbase.com|language=en-US}}</ref>
+!Canada<ref>{{Cite web|last=Model|title=Hyundai Kona Sales Figures|url=https://www.goodcarbadcar.net/hyundai-kona-sales-figures/|access-date=2020-12-11|website=GCBC|language=en-US}}</ref>
+!Australia
+!China<ref>{{Cite web|date=2018-05-17|title=Hyundai Encino China auto sales figures|url=https://carsalesbase.com/china-hyundai-encino/|access-date=2020-11-17|website=carsalesbase.com|language=en-US}}</ref>
+!Vietnam
+!Indonesia<ref>{{Cite web |title=Indonesian Automobile Industry Data – GAIKINDO |url=https://www.gaikindo.or.id/indonesian-automobile-industry-data/ |access-date=2025-02-08 |website=www.gaikindo.or.id}}</ref>
+!Malaysia<ref>{{Cite web |title=Car Popularity |url=https://data.gov.my/dashboard/car-popularity |website=data.gov.my}}</ref>{{Efn-lr|Figures based on registration (Malaysia)}}
+|-
+|2017
+|23,227
+|6,884
+|
+|
+|
+|
+|
+|
+|
+|-
+| 2018
+|50,468
+| 65,469
+| 47,090
+|14,497
+|
+|6,593
+|
+|
+|
+|-
+| 2019
+|42,649
+| 105,030
+| 73,326
+|25,817
+|13,342<ref>{{Cite web|url=https://www.caradvice.com.au/817278/vfacts-2019-new-car-sales-results/ |title=VFACTS: 2019 new car sales results {{!}} CarAdvice|website=CarAdvice.com|language=en|access-date=2020-01-31}}</ref>
+|4,196
+|
+|119
+|
+|-
+| 2020
+|31,902
+|126,980
+| 76,253
+|31,733
+|12,514<ref>{{Cite web|last=Jackson|first=Patrick|date=2021-01-06|title=Australia's best-selling cars of 2020 revealed: What's changed, and the pandemic's effects|url=https://drivetribe.com/p/australias-best-selling-cars-of-L3_CCW7nS0SuHSxlhiac8A|access-date=2021-01-12|website=DriveTribe|language=en|archive-date=1 February 2021|archive-url=https://web.archive.org/web/20210201225623/https://drivetribe.com/p/australias-best-selling-cars-of-L3_CCW7nS0SuHSxlhiac8A|url-status=dead}}</ref>
+|1,071
+|4,375<ref>{{cite web|title=Hyundai Kona Vietnam auto sales figures|url=https://www.xeoto.com.vn/hyundai/kona|url-status=dead|archive-url=https://web.archive.org/web/20220125021650/https://www.xeoto.com.vn/hyundai/kona|archive-date=25 January 2022|access-date=2021-01-28|publisher=xeoto.com.vn}}</ref>
+|115
+|36
+|-
+|2021
+|12,244
+|109,934
+|90,069
+|31,101
+|12,748<ref>{{Cite web|last=Davis|first=Brett|date=2022-01-06|title=Australian vehicle sales for December 2021 (VFACTS)|url=https://performancedrive.com.au/australian-vehicle-sales-for-december-2021-vfacts-0701/|access-date=2022-01-12|website=PerformanceDrive|language=en-AU}}</ref>
+|611
+|5,068<ref>{{Cite news|url=https://autopro.com.vn/mot-minh-kia-seltos-can-hon-nua-doanh-so-phan-khuc-suv-hang-b-tai-viet-nam-2022011211545709.chn|title=Một mình Kia Seltos 'cân' hơn nửa doanh số phân khúc SUV hạng B tại Việt Nam|last=Khánh|first=Duy|date=12 January 2022|website=AutoPro|language=vi|access-date=25 January 2022|archive-date=25 June 2022|archive-url=https://web.archive.org/web/20220625010124/https://autopro.com.vn/mot-minh-kia-seltos-can-hon-nua-doanh-so-phan-khuc-suv-hang-b-tai-viet-nam-2022011211545709.chn|url-status=dead}}</ref>
+|369
+|100
+|-
+|2022
+|8,388
+|83,695
+|63,994
+|24,579<ref name="Hyundai Canada reports calendar year 2023 and December sales | Conceptcarz.com">{{Cite news |date=2024-01-09 |title=Hyundai Canada reports calendar year 2023 and December sales |url=https://www.conceptcarz.com/a52647/hyundai-canada-2023-december-sales.aspx# |website=Concept Carz}}</ref>
+|11,538<ref>{{Cite web|last=Fallah|first=Alborz|date=2023-01-05|title=Hyundai sales in Australia in 2022 |url=https://www.carexpert.com.au/car-news/hyundai-sales-in-australia-in-2022|website=CarExpert|language=en}}</ref>
+|
+|
+|20
+|277
+|-
+|2023
+|34,654
+|83,028
+|79,116
+|22,443<ref name="Hyundai Canada reports calendar year 2023 and December sales | Conceptcarz.com"/>
+|11,183<ref>{{Cite web|last=Baker|first=Tom|title=Top 100 most popular cars in Australia in 2023: every best selling vehicle |url=https://www.chasingcars.com.au/news/car-industry/top-100-most-popular-cars-in-australia-every-best-selling-vehicle/|website=Chasing Cars|date=4 January 2024 |access-date=2024-01-22}}</ref>
+|
+|
+|
+|91
+|-
+|2024
+|28,459
+|79,844
+|82,172
+|30,020<ref>{{Cite web |last=Corp |first=Hyundai Auto Canada |title=Hyundai and Genesis in Canada report 2024 sales, best year in company history |url=https://www.newswire.ca/news-releases/hyundai-and-genesis-in-canada-report-2024-sales-best-year-in-company-history-855385065.html |access-date=2025-01-18 |website=www.newswire.ca |language=en}}</ref>
+|17,374<ref>{{Cite web |last=Spinks |first=Jez |date=2025-01-08 |title=Top 100 most popular cars in Australia in 2024: best-selling vehicles Top 100 most popular cars in Australia in 2024: best-selling vehicles |url=https://www.chasingcars.com.au/news/car-industry/top-100-most-popular-cars-in-australia-in-2024-best-selling-vehicles/ |access-date=2025-01-18 |website=Chasing Cars |language=en-AU}}</ref>
+|
+|
+|1,196
+|0
+|}
+
+== See also ==
+* [[List of Hyundai vehicles]]
+
+==Notes==
+{{notelist-lr}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category|Hyundai Kona}}
+* {{Official website|https://www.hyundai.com/worldwide/en/suv/kona-2023/ice}} (International)
+* {{Official website|https://www.hyundai.com/worldwide/en/suv/kona-2023/n-line}} (N Line)
+* {{Official website|https://www.hyundai.com/worldwide/en/suv/kona-n/highlights}} (N Performance)
+* {{Official website|https://www.hyundai-n.com/en/models/n/kona-n.do}} (Hyundai Kona N)
+* {{Official website|https://www.hyundai.com/worldwide/en/eco/kona-electric}} (Kona Electric)
+
+{{Hyundai Motor Company}}
+{{Hyundai timeline 1995–present}}
+{{Hyundai North America}}
+{{Hyundai light truck/SUV timeline, international markets, 1991–present}}
+{{Use dmy dates|date=July 2019}}
+
+[[Category:Hyundai vehicles|Kona]]
+[[Category:Subcompact crossover sport utility vehicles]]
+[[Category:Cars introduced in 2017]]
+[[Category:2020s cars]]
+[[Category:Front-wheel-drive vehicles]]
+[[Category:All-wheel-drive vehicles]]
+[[Category:Production electric cars]]
+[[Category:Vehicles with continuously variable transmission]]
+[[Category:ANCAP small SUVs]]
+[[Category:Euro NCAP small off-road]]
+[[Category:Cars of Algeria]]
+[[Category:Cars of the Czech Republic]]
+[[Category:Cars of Indonesia]]
+[[Category:Cars of Vietnam]]
+[[Category:Hybrid sport utility vehicles]] Edit summary (Briefly describe your changes) By publishing changes, you agree to the Terms of Use , and you irrevocably agree to release your contribution under the CC BY-SA 4.0 License and the GFDL . You agree that a hyperlink or URL is sufficient attribution under the Creative Commons license. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply. JavaScript is required to continue. Turn on JavaScript in your browser settings and refresh the page. Cancel Editing help (opens in new window) Copy and paste: – — ° ′ ″ ≈ ≠ ≤ ≥ ± − × ÷ ← → · § Cite your sources: <ref></ref> {{}}   {{{}}}   |   []   [[]]   [[Category:]]   #REDIRECT [[]]   &nbsp;   <s></s>   <sup></sup>   <sub></sub>   <code></code>   <pre></pre>   <blockquote></blockquote>   <ref></ref> <ref name="" />   {{Reflist}}   <references />   <includeonly></includeonly>   <noinclude></noinclude>   {{DEFAULTSORT:}}   <nowiki></nowiki>   <!-- -->   <span class="plainlinks"></span> Symbols: ~ | ¡ ¿ † ‡ ↔ ↑ ↓ • ¶   # ∞   ‹› «»   ¤ ₳ ฿ ₵ ¢ ₡ ₢ $ ₫ ₯ € ₠ ₣ ƒ ₴ ₭ ₤ ℳ ₥ ₦ ₧ ₰ £ ៛ ₨ ₪ ৳ ₮ ₩ ¥   ♠ ♣ ♥ ♦   𝄫 ♭ ♮ ♯ 𝄪   © ¼ ½ ¾ Latin: A a Á á À à Â â Ä ä Ǎ ǎ Ă ă Ā ā Ã ã Å å Ą ą Æ æ Ǣ ǣ   B b   C c Ć ć Ċ ċ Ĉ ĉ Č č Ç ç   D d Ď ď Đ đ Ḍ ḍ Ð ð   E e É é È è Ė ė Ê ê Ë ë Ě ě Ĕ ĕ Ē ē Ẽ ẽ Ę ę Ẹ ẹ Ɛ ɛ Ǝ ǝ Ə ə   F f   G g Ġ ġ Ĝ ĝ Ğ ğ Ģ ģ   H h Ĥ ĥ Ħ ħ Ḥ ḥ   I i İ ı Í í Ì ì Î î Ï ï Ǐ ǐ Ĭ ĭ Ī ī Ĩ ĩ Į į Ị ị   J j Ĵ ĵ   K k Ķ ķ   L l Ĺ ĺ Ŀ ŀ Ľ ľ Ļ ļ Ł ł Ḷ ḷ Ḹ ḹ   M m Ṃ ṃ   N n Ń ń Ň ň Ñ ñ Ņ ņ Ṇ ṇ Ŋ ŋ   O o Ó ó Ò ò Ô ô Ö ö Ǒ ǒ Ŏ ŏ Ō ō Õ õ Ǫ ǫ Ọ ọ Ő ő Ø ø Œ œ   Ɔ ɔ   P p   Q q   R r Ŕ ŕ Ř ř Ŗ ŗ Ṛ ṛ Ṝ ṝ   S s Ś ś Ŝ ŝ Š š Ş ş Ș ș Ṣ ṣ ß   T t Ť ť Ţ ţ Ț ț Ṭ ṭ Þ þ   U u Ú ú Ù ù Û û Ü ü Ǔ ǔ Ŭ ŭ Ū ū Ũ ũ Ů ů Ų ų Ụ ụ Ű ű Ǘ ǘ Ǜ ǜ Ǚ ǚ Ǖ ǖ   V v   W w Ŵ ŵ   X x   Y y Ý ý Ŷ ŷ Ÿ ÿ Ỹ ỹ Ȳ ȳ   Z z Ź ź Ż ż Ž ž   ß Ð ð Þ þ Ŋ ŋ Ə ə Greek: Ά ά Έ έ Ή ή Ί ί Ό ό Ύ ύ Ώ ώ   Α α Β β Γ γ Δ δ   Ε ε Ζ ζ Η η Θ θ   Ι ι Κ κ Λ λ Μ μ   Ν ν Ξ ξ Ο ο Π π   Ρ ρ Σ σ ς Τ τ Υ υ   Φ φ Χ χ Ψ ψ Ω ω   {{Polytonic|}} Cyrillic: А а Б б В в Г г   Ґ ґ Ѓ ѓ Д д Ђ ђ   Е е Ё ё Є є Ж ж   З з Ѕ ѕ И и І і   Ї ї Й й Ј ј К к   Ќ ќ Л л Љ љ М м   Н н Њ њ О о П п   Р р С с Т т Ћ ћ   У у Ў ў Ф ф Х х   Ц ц Ч ч Џ џ Ш ш   Щ щ Ъ ъ Ы ы Ь ь   Э э Ю ю Я я   ́ IPA: t̪ d̪ ʈ ɖ ɟ ɡ ɢ ʡ ʔ   ɸ β θ ð ʃ ʒ ɕ ʑ ʂ ʐ ç ʝ ɣ χ ʁ ħ ʕ ʜ ʢ ɦ   ɱ ɳ ɲ ŋ ɴ   ʋ ɹ ɻ ɰ   ʙ ⱱ ʀ ɾ ɽ   ɫ ɬ ɮ ɺ ɭ ʎ ʟ   ɥ ʍ ɧ   ʼ   ɓ ɗ ʄ ɠ ʛ   ʘ ǀ ǃ ǂ ǁ   ɨ ʉ ɯ   ɪ ʏ ʊ   ø ɘ ɵ ɤ   ə ɚ   ɛ œ ɜ ɝ ɞ ʌ ɔ   æ   ɐ ɶ ɑ ɒ   ʰ ʱ ʷ ʲ ˠ ˤ ⁿ ˡ   ˈ ˌ ː ˑ ̪   {{IPA|}} Wikidata entities used in this page Hyundai Kona : Sitelink, Title, Description: en, Statement (with qualifiers and references): P856 Pages transcluded onto the current version of this page ( help ) : Template:ANCAP ( view source ) (semi-protected) Template:ANCAP/1993 ( view source ) (semi-protected) Template:ANCAP/2018 ( view source ) (semi-protected) Template:Abbr ( view source ) (protected) Template:Anchor ( view source ) (template editor protected) Template:Category handler ( view source ) (protected) Template:Citation/make link ( view source ) (template editor protected) Template:Citation/styles.css ( view source ) (template editor protected) Template:Cite AV media ( view source ) (template editor protected) Template:Cite magazine ( view source ) (protected) Template:Cite news ( view source ) (protected) Template:Cite patent ( view source ) (template editor protected) Template:Cite patent/authors ( view source ) (template editor protected) Template:Cite patent/core ( view source ) (template editor protected) Template:Cite web ( view source ) (protected) Template:Cite website ( view source ) (protected) Template:Clear ( view source ) (protected) Template:Commons category ( view source ) (template editor protected) Template:Convert ( view source ) (template editor protected) Template:Convert abbreviated ( view source ) (template editor protected) Template:Cvt ( view source ) (template editor protected) Template:DMCA ( view source ) (template editor protected) Template:Dated maintenance category ( view source ) (template editor protected) Template:Dated maintenance category (articles) ( view source ) (template editor protected) Template:Efn ( view source ) (template editor protected) Template:Efn-lr ( view source ) (extended confirmed protected) Template:Euro NCAP ( view source ) (semi-protected) Template:Euro NCAP/2009 ( view source ) (semi-protected) Template:Euro NCAP/2009 line ( view source ) (semi-protected) Template:FULLROOTPAGENAME ( view source ) (template editor protected) Template:Fix-span ( view source ) (template editor protected) Template:Fix/category ( view source ) (protected) Template:Hlist/styles.css ( view source ) (protected) Template:Hyundai Motor Company ( edit ) Template:Hyundai North America ( edit ) Template:Hyundai light truck/SUV timeline, international markets, 1991–present ( edit ) Template:Hyundai timeline 1995–present ( edit ) Template:Icon ( view source ) (template editor protected) Template:Infobox ( view source ) (template editor protected) Template:Infobox automobile ( view source ) (template editor protected) Template:JULIANDAY ( view source ) (template editor protected) Template:Lang ( view source ) (template editor protected) Template:Langx ( view source ) (template editor protected) Template:Legend0 ( view source ) (template editor protected) Template:Link note ( view source ) (template editor protected) Template:Loop ( view source ) (template editor protected) Template:MONTHNAME ( view source ) (template editor protected) Template:MONTHNUMBER ( view source ) (template editor protected) Template:Main other ( view source ) (protected) Template:Navbox ( view source ) (template editor protected) Template:Navbox bottom ( view source ) (template editor protected) Template:Navbox timeline ( edit ) Template:Navbox top ( view source ) (template editor protected) Template:Nobold ( view source ) (template editor protected) Template:Nobold/styles.css ( view source ) (template editor protected) Template:Notelist ( view source ) (template editor protected) Template:Notelist-lr ( view source ) (extended confirmed protected) Template:Ns has subpages ( view source ) (protected) Template:Official website ( view source ) (template editor protected) Template:Pagetype ( view source ) (protected) Template:Plainlist/styles.css ( view source ) (protected) Template:Plural ( view source ) (template editor protected) Template:Rating ( view source ) (template editor protected) Template:Reflist ( view source ) (protected) Template:Reflist/styles.css ( view source ) (protected) Template:Replace ( view source ) (protected) Template:SDcat ( view source ) (protected) Template:Short description ( view source ) (protected) Template:Short description/lowercasecheck ( view source ) (protected) Template:Side box ( view source ) (template editor protected) Template:Sister project ( view source ) (template editor protected) Template:Sister project/styles.css ( view source ) (template editor protected) Template:Spaces ( view source ) (protected) Template:Subscription required ( view source ) (template editor protected) Template:Sup ( view source ) (template editor protected) Template:Template other ( view source ) (protected) Template:Ubl ( view source ) (template editor protected) Template:Unbulleted list ( view source ) (template editor protected) Template:Update after ( view source ) (template editor protected) Template:Update inline span ( view source ) (template editor protected) Template:Update span ( view source ) (template editor protected) Template:Use British English ( view source ) (template editor protected) Template:Use dmy dates ( view source ) (template editor protected) Template:Yesno ( view source ) (protected) Module:Anchor ( view source ) (template editor protected) Module:Arguments ( view source ) (protected) Module:Auto date formatter ( view source ) (template editor protected) Module:Category handler ( view source ) (protected) Module:Category handler/blacklist ( view source ) (protected) Module:Category handler/config ( view source ) (protected) Module:Category handler/data ( view source ) (protected) Module:Category handler/shared ( view source ) (protected) Module:Check for unknown parameters ( view source ) (protected) Module:Citation/CS1 ( view source ) (protected) Module:Citation/CS1/COinS ( view source ) (protected) Module:Citation/CS1/Configuration ( view source ) (protected) Module:Citation/CS1/Date validation ( view source ) (protected) Module:Citation/CS1/Identifiers ( view source ) (protected) Module:Citation/CS1/Utilities ( view source ) (protected) Module:Citation/CS1/Whitelist ( view source ) (protected) Module:Citation/CS1/styles.css ( view source ) (protected) Module:Convert ( view source ) (template editor protected) Module:Convert/data ( view source ) (template editor protected) Module:Convert/text ( view source ) (template editor protected) Module:DecodeEncode ( view source ) (template editor protected) Module:Disambiguation/templates ( view source ) (protected) Module:Exponential search ( view source ) (template editor protected) Module:Icon ( view source ) (template editor protected) Module:Icon/data ( view source ) (template editor protected) Module:Infobox ( view source ) (template editor protected) Module:Infobox/styles.css ( view source ) (template editor protected) Module:InfoboxImage ( view source ) (protected) Module:InfoboxImage/data ( view source ) (protected) Module:Lang ( view source ) (template editor protected) Module:Lang/ISO 639 synonyms ( view source ) (template editor protected) Module:Lang/configuration ( view source ) (template editor protected) Module:Lang/data ( view source ) (template editor protected) Module:Lang/data/iana languages ( view source ) (template editor protected) Module:Lang/data/iana regions ( view source ) (template editor protected) Module:Lang/data/iana scripts ( view source ) (template editor protected) Module:Lang/data/iana suppressed scripts ( view source ) (template editor protected) Module:Lang/data/iana variants ( view source ) (template editor protected) Module:Lang/data/is latn data ( view source ) (template editor protected) Module:Lang/langx ( view source ) (template editor protected) Module:List ( view source ) (protected) Module:Namespace detect/config ( view source ) (protected) Module:Namespace detect/data ( view source ) (protected) Module:Navbar ( view source ) (protected) Module:Navbar/configuration ( view source ) (protected) Module:Navbar/styles.css ( view source ) (protected) Module:Navbox ( view source ) (template editor protected) Module:Navbox/configuration ( view source ) (template editor protected) Module:Navbox/styles.css ( view source ) (template editor protected) Module:Navbox timeline ( edit ) Module:Navbox timeline/styles.css ( edit ) Module:Navbox top and bottom ( view source ) (template editor protected) Module:Ns has subpages ( view source ) (protected) Module:Official website ( view source ) (template editor protected) Module:Pagetype ( view source ) (protected) Module:Pagetype/config ( view source ) (protected) Module:Pagetype/disambiguation ( view source ) (protected) Module:Pagetype/rfd ( view source ) (protected) Module:Pagetype/setindex ( view source ) (protected) Module:Pagetype/softredirect ( view source ) (protected) Module:SDcat ( view source ) (protected) Module:Side box ( view source ) (template editor protected) Module:Side box/styles.css ( view source ) (template editor protected) Module:String ( view source ) (protected) Module:TableTools ( view source ) (protected) Module:URL ( view source ) (template editor protected) Module:Unicode data ( view source ) (template editor protected) Module:Unicode data/scripts ( view source ) (template editor protected) Module:Unsubst ( view source ) (protected) Module:WikidataIB ( view source ) (template editor protected) Module:WikidataIB/nolinks ( view source ) (template editor protected) Module:WikidataIB/titleformats ( view source ) (template editor protected) Module:Wikitext Parsing ( view source ) (protected) Module:Yesno ( view source ) (protected) This page is a member of 21 hidden categories ( help ) : Category:Use dmy dates from July 2019 Category:Short description is different from Wikidata Category:Wikipedia articles in need of updating from March 2020 Category:Articles with short description Category:CS1 Japanese-language sources (ja) Category:All Wikipedia articles in need of updating Category:Short description matches Wikidata Category:Articles containing Korean-language text Category:Commons category link is on Wikidata Category:CS1 uses Chinese-language script (zh) Category:Official website different in Wikidata and Wikipedia Category:Pages containing links to subscription-only content Category:Articles containing Chinese-language text Category:All Wikipedia articles written in British English Category:CS1 German-language sources (de) Category:CS1 Vietnamese-language sources (vi) Category:CS1 Korean-language sources (ko) Category:CS1 Portuguese-language sources (pt) Category:CS1 Indonesian-language sources (id) Category:Use British English from June 2024 Category:CS1 Simplified Chinese-language sources (zh-hans) Retrieved from " https://en.wikipedia.org/wiki/Hyundai_Kona "

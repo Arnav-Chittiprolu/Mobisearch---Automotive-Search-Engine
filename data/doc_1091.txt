@@ -1,0 +1,119 @@
+https://en.wikipedia.org/w/index.php?title=Audi_e-tron&action=edit&section=1
+
+Page notice You are not logged in. Once you make an edit, a temporary account , furnished only with a very basic level of privacy, will be assigned to you automatically and will expire within 90 days. If you log in or create an account , your edits will instead be attributed to a username, and you will be able to receive notifications about your edits for as long as you wish, among other benefits . Content that violates any copyrights will be deleted. Encyclopedic content must be verifiable through citations to reliable sources . Anti-spam check.
+Do not fill this in! == Production vehicles ==
+{{anchor|production|production car|production cars}}
+
+=== Audi R8 E-Tron (2015) ===
+[[File:Audi R8 e-Tron.JPG|thumb|Audi R8 e-Tron]]
+The R8 E-Tron was an electric version of the [[Audi R8]]. It got to 100 kilometers an hour in under 4 seconds, and a claimed range of over 280 miles.<ref>{{Cite web|url=https://www.audi-mediacenter.com/en/audi-r8-e-tron-74|title=Audi R8 e-tron (2015)|website=Audi MediaCenter}}</ref> Less than 100 were produced, making it a limited production vehicle.
+
+=== Audi E-tron (2019) ===
+{{cleanup section|reason=spelling, list formatting, abbreviations, sourcing|date=September 2025}}
+'''Audi E-tron 55''' 
+5 seats,
+5014 mm, 1976 mm,1686 mm, 2595 kg, 3170 kg,
+'''Electric motor dual 300 kW (408 hp)'''
+Tork 664 Nm
+Type 2 CCS	
+AC 11 kW
+AC 22 kW
+DC 150 kW
+%80 30dk
+95 kWh 86 kWh	
+WTLP 26,2 kWh/100km
+4x4 Quattro All-wheel Drive	
+max 200 km/h
+'''0-100km/h 5,7 s'''
+
+
+'''Audi E-tron 50'''
+5 seats, 
+5014 mm, 1976 mm, 1686 mm, 2445 kg, 3040 kg,	
+Electric motor 230 kW / 313 hp
+Tork 540 Nm
+Type 2 CCS	
+AC 11 kW
+AC 22 kW
+DC 120 kW
+%80 30dk
+71 kWh 64 kWh	
+WTLP 26,6 kWh/100 km
+4x4 Quattro All-wheel Drive	
+max 190 km/h
+'''0-100km/h 6,8 s'''
+
+=== Q8 e-tron (2018) ===
+{{Main|Audi Q8 e-tron}}
+[[File:Audi Q8 e-tron IAA 2023 1X7A0616.jpg|thumb|[[Audi Q8 e-tron]] is based on the [[Volkswagen Group MLB platform|MLB]] platform.]]
+An [[Sport utility vehicle|SUV]] formerly called the "Audi e-tron", with a 328-kilometer (204-mile) EPA range and a 95-kWh battery, [[Audi Brussels|entered production]] in 2018<ref>{{cite web|url= https://electrek.co/2016/12/26/10-electric-cars/ |title=10 electric cars coming in the next 3 years |first=Fred |last=Lambert |date= 2016-12-26 |work=Electrek |access-date= 2016-12-26 |quote=The vehicle is expected to follow the Q6 in 2019-2020)}}</ref><ref>{{cite web|url= https://electrek.co/2017/06/12/audi-electric-car-factory/ |title=Audi previews new electric car factory: 'Electric motors instead of internal combustion engines, batteries instead of fuel tanks' |first=Fred |last=Lambert |work=Electrek |date=12 June 2017|access-date=12 June 2017}}</ref> and was first delivered in 2019. The vehicle is sold in many countries, including the US, Canada and multiple countries in Europe. At the end of September 2019, there were more than 10,000 e-trons registered worldwide.<ref>{{Cite web|url=https://insideevs.com/news/374641/audi-e-tron-sales-us-declining/|title=Audi e-tron Sales In U.S. Continue To Decline In September|website=InsideEVs}}</ref><ref>{{cite web | url=https://www.autohaus.de/marktdaten/neuzulassungen-1377988.html | title=Neuzulassungen | publisher=Autohaus | language=de | access-date=24 January 2021 | archive-date=11 December 2020 | archive-url=https://web.archive.org/web/20201211133148/https://www.autohaus.de/marktdaten/neuzulassungen-1377988.html | url-status=dead }}</ref><ref>{{Cite web|url=https://eu-evs.com/|title=eu-evs.com|website=eu-evs.com}}</ref>
+
+Audi announced that the facelifted e-tron will be renamed, and will be sold as the [[Audi Q8 e-tron]]; it was revealed on November 9, 2022. <ref>{{cite web |title=Audi confirms e-tron is dead, long live the fresh Q8 e-tron and Q8 Sportback e-tron |date=7 November 2022 |url=https://www.autoevolution.com/news/audi-confirms-e-tron-is-dead-long-live-the-fresh-q8-e-tron-and-q8-sportback-e-tron-203120.html |publisher=Autoevolution ([[Softpedia]])}}</ref>
+
+=== Q2L e-tron (2019) ===
+[[File:AUDI Q2L E-TRON China (2).jpg|thumb|Audi Q2L e-tron is based on the gasoline-powered vehicle [[Audi Q2]], which is based the [[Volkswagen Group MQB platform|MQB]] platform.]]
+The Q2L e-tron is an all-electric version of the long-wheelbase variant of the [[subcompact SUV]] [[Audi Q2]], which went into production at the [[FAW-Volkswagen|Foshan]] plant in November 2019 and is sold exclusively in China. Powered by a 38 kWh lithium-ion battery of Chinese supplier [[Contemporary Amperex Technology]], the Q2L e-tron has a range of {{convert|265|km|mi|0}} on one charge and a top speed of {{convert|150|km/h|0|abbr=on}}. Its electric motor delivers the maximum power of {{convert|100|kW|0|abbr=on}} and maximum torque of {{convert|290|Nm|0|abbr=on}}.<ref>{{Cite web|url=https://www.autonews.com/china/audi-launches-first-locally-built-ev|title=Audi launches first locally built EV|date=2019-11-25|website=Automotive News|language=en|access-date=2019-12-14}}</ref>
+{{-}}
+
+=== Q8 e-tron Sportback (2020) ===
+{{Main|Audi Q8 e-tron#Sportback version}}
+[[File:Audi Q8 e-tron Sportback 1X7A7094.jpg|alt=|thumb|[[Audi Q8 e-tron#Sportback version|Audi Q8 e-tron Sportback]] is based on the MLB platform.]]
+The e-tron Sportback is an all-electric [[coupé]] SUV shown first as a concept at the 2017 Shanghai Motor Show. It has the same powertrain/battery as the [[Audi e-tron (2018)|e-tron SUV]]. Both cars are produced in Brussels, Belgium.<ref name=":0">{{Cite web|url=https://evcompare.io/cars/audi/audi_e-tron_sportback_concept/|title=Audi e-tron Sportback concept specs, photos, price, offers and incentives|website=EV Compare.io|language=en|access-date=2019-04-16|archive-date=16 April 2019|archive-url=https://web.archive.org/web/20190416175103/https://evcompare.io/cars/audi/audi_e-tron_sportback_concept/|url-status=dead}}</ref> As in the e-tron SUV, the battery of the vehicle is liquid-cooled.<ref>{{Cite web|url=https://www.audiusa.com/technology/efficiency/e-tron#/modal/modal-sportback-concept|title=Audi e-tron® Electric Cars {{!}} Audi USA {{!}} Audi USA|website=www.audiusa.com|language=en|access-date=2019-04-16}}</ref>
+
+The production version was revealed at the 2019 [[LA Auto Show|Los Angeles Auto Show]]. European and American deliveries started in 2020.<ref>{{Cite web|url=https://insideevs.com/news/447169/audi-etron-sales-us-record-q2-2020/|title=Audi e-tron Sales In U.S. Hit New Record In Q3 2020|website=InsideEVs}}</ref><ref>{{Cite web|url=https://www.caranddriver.com/news/a29851281/audi-e-tron-sportback-2020-photos-info/|title=2020 Audi e-tron Sportback is the A7 of Audi EVs|work=[[Car and Driver]]|last=Frank|first=Michael|date=19 November 2019|access-date=19 November 2019}}</ref>
+
+The 2020 e-tron Sportback has an EPA range of {{convert|218|mi|km|0|disp=flip}}.<ref>{{Cite web|url=https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=42674|title=2020 Audi e-tron Sportback|website=www.fueleconomy.gov}}</ref> It is better than in the 2019 e-tron SUV, partially because a larger percentage of the battery capacity is usable. The e-tron's battery management system keeps part of the battery capacity as a buffer, which is not part of the usable capacity; now the size of that buffer was decreased to unlock more usable capacity. This change was introduced in the e-tron SUV during the production run, while in the e-tron Sportback, which entered production later, it was available from the beginning.
+
+In 2022, it was announced that the vehicle will be renamed. It is now known as the Audi ''Q8'' e-tron Sportback.
+{{-}}
+
+=== e-tron GT (2021) ===
+{{main|Audi e-tron GT}}
+[[File:Audi RS e-tron GT.jpg|alt=Audi e-tron GT|thumb|Audi RS e-tron GT]]
+The e-tron GT is a four-door all-electric [[grand tourer]]. The concept model was showcased at the [[Los Angeles Auto Show#2018|2018 Los Angeles Auto Show]]. It is built on the same platform as the [[Porsche Mission E|Porsche Taycan]].<ref>{{Cite web|url=https://jalopnik.com/the-2020-audi-e-tron-gt-heres-more-of-audis-electric-t-1830677784|title=The 2020 Audi E-Tron GT: Here's More of Audi's Electric Tesla-Fighter|first=Justin T.|last=Westbrook|website=Jalopnik |date=27 November 2018 }}</ref> It is fitted with an 800-volt system, which substantially reduces charging times. The vehicle is driven by two permanently excited synchronous [[electric motor]]s with a combined power output of {{convert|434|kW|hp|0|abbr=on}}. A 90-kWh lithium-ion battery powers the e-tron GT's electric engines and enables it to travel up to {{cvt|400|km|0|}} according to the new [[Worldwide harmonized light vehicles test procedure|WLTP]] standard.<ref>{{Cite web|url=https://motorillustrated.com/la-auto-show-2018-audi-e-tron-gt-concept-is-just-plain-crazy/14598/|title=LA Auto Show 2018: Audi e-tron GT Concept is Just Plain Crazy|first=Charles|last=Jolicoeur|date=28 November 2018}}</ref>
+
+The e-tron GT concept made an appearance in the 2019 film ''[[Avengers: Endgame]]'', in which [[Tony Stark (Marvel Cinematic Universe)|Tony Stark]] drives the e-tron GT in one scene in the film.<ref>{{cite web|url=https://www.autoblog.com/2018/12/04/audi-e-tron-gt-concept-avengers-4/|title=Audi E-Tron GT Concept confirmed for 'Avengers 4'|last=Markovich|first=Tony|publisher=[[Weblogs, Inc.|Autoblog.com]]|date=4 December 2018|access-date=11 December 2018|archive-url=https://web.archive.org/web/20181205140403/https://www.autoblog.com/2018/12/04/audi-e-tron-gt-concept-avengers-4/|archive-date=5 December 2018|url-status=live}}</ref> Production model is announced for 9 February 2021.
+{{-}}
+
+=== Q4 e-tron (2021) ===
+{{main|Audi Q4 e-tron}}
+[[File:2021 Audi Q4 e-tron Sport 35.jpg|alt=Audi Q4 e-tron photo|thumb|Audi Q4 e-tron is based on the [[Volkswagen Group MEB platform|MEB]] platform.]]
+
+The Q4 e-tron is a battery electric [[Crossover (automobile)|crossover SUV]] unveiled at the [[Geneva Motor Show#2019|2019 Geneva Motor Show]] as a concept model. According to the Audi, the use of VW's [[Volkswagen Group MEB platform|MEB]] platform should improve its affordability. The production model is released in April 2021.<ref>{{Cite web|last=Langness|first=Travis|date=2021-01-04|title=2021 Audi e-tron Prices, Reviews, and Pictures {{!}} Edmunds|url=https://www.edmunds.com/audi/e-tron/|website=[[Edmunds.com]]}}</ref>
+
+{{-}}
+
+=== Q4 e-tron Sportback (2021) ===
+[[File:Audi Q4 Sportback e-tron IAA 2021 1X7A0158.jpg|thumb|Audi Q4 e-tron Sportback is based on the MEB platform.]]
+
+The Audi Q4 e-tron Sportback is a battery electric [[Crossover (automobile)|coupe crossover]] unveiled alongside the standard Q4 e-tron. It will be coming for sale in 2021 along with the Q4 e-tron. Both of these cars will be based on the Volkswagen's [[Volkswagen Group MEB platform|MEB]] platform. The Q4 e-tron Sportback has a drag coefficient of 0.26.<ref name="Perez">{{Cite web|url=https://www.motor1.com/news/432743/audi-q4-e-tron-sportback-concept-details/|title=Audi Q4 E-Tron Sportback Concept Debuts With Sleek Looks, 301 HP|work=[[Motor1]]|last=Perez|first=Jeff|date=7 July 2020|access-date=7 July 2020}}</ref>
+
+{{-}}
+
+=== Q5 e-tron (2021) ===
+{{main|Audi Q5 e-tron}}
+[[File:2022 SAIC-Audi Q5 e-tron.jpg|thumb|Audi Q5 e-tron is based on MEB platform.]]
+The Q5 e-tron is a battery electric [[Crossover (automobile)|crossover SUV]] unveiled at the 2021 [[Guangzhou Auto Show]]. It is based on the MEB platform similar to the Q4 e-tron. Produced and marketed exclusively for the Chinese market, it is the first three-row SUV of the e-tron series.
+
+{{-}}
+
+=== Q6 e-tron (2024) ===
+{{main|Audi Q6 e-tron}}
+[[File:Audi Q6 e-tron IMG 0129.jpg|thumb|Audi Q6 e-tron is based on  [[Volkswagen Group Premium Platform Electric|PPE]] platform.]]
+The Q6 e-tron is a battery electric [[Crossover (automobile)|crossover SUV]] unveiled at the 2023 [[2023 Munich Motor Show|Munich Motor Show]] as a prototype model. The production model is released in March 2024. 
+
+{{-}}
+
+=== Q6 e-tron Sportback (2024) ===
+[[File:Audi Q6 e-tron Sportback DSC 9278.jpg|thumb|Audi Q6 e-tron Sportback is based on the PPE platform.]]
+
+The Audi Q6 e-tron Sportback is a battery electric [[Crossover (automobile)|coupe crossover]] unveiled alongside the standard Q6 e-tron. It will be coming for sale in 2024 along with the Q6 e-tron. Both of these cars will be based on the Volkswagen's [[Volkswagen Group Premium Platform Electric|PPE]] platform. The Q6 e-tron Sportback has a drag coefficient of 0.26.<ref name="Perez">{{Cite web|url=https://www.motor1.com/news/432743/audi-q4-e-tron-sportback-concept-details/|title=Audi Q4 E-Tron Sportback Concept Debuts With Sleek Looks, 301 HP|work=[[Motor1]]|last=Perez|first=Jeff|date=7 July 2020|access-date=7 July 2020}}</ref>
+
+{{-}}
+
+=== A6 e-tron (2024) ===
+{{main|Audi A6 e-tron}}
+[[File:Audi A6 Avant e-tron DSC 7425.jpg|thumb|Audi A6 e-tron is based on  [[Volkswagen Group Premium Platform Electric|PPE]] platform.]]
+The A6 e-tron is a battery electric [[Sedan (automobile)|sedan]] and [[station wagon]] unveiled at the 2021 [[Auto Shanghai]] as a concept model. The production model is released in July 2024.
+
+{{-}} Edit summary (Briefly describe your changes) By publishing changes, you agree to the Terms of Use , and you irrevocably agree to release your contribution under the CC BY-SA 4.0 License and the GFDL . You agree that a hyperlink or URL is sufficient attribution under the Creative Commons license. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply. JavaScript is required to continue. Turn on JavaScript in your browser settings and refresh the page. Cancel Editing help (opens in new window) Copy and paste: – — ° ′ ″ ≈ ≠ ≤ ≥ ± − × ÷ ← → · § Cite your sources: <ref></ref> {{}}   {{{}}}   |   []   [[]]   [[Category:]]   #REDIRECT [[]]   &nbsp;   <s></s>   <sup></sup>   <sub></sub>   <code></code>   <pre></pre>   <blockquote></blockquote>   <ref></ref> <ref name="" />   {{Reflist}}   <references />   <includeonly></includeonly>   <noinclude></noinclude>   {{DEFAULTSORT:}}   <nowiki></nowiki>   <!-- -->   <span class="plainlinks"></span> Symbols: ~ | ¡ ¿ † ‡ ↔ ↑ ↓ • ¶   # ∞   ‹› «»   ¤ ₳ ฿ ₵ ¢ ₡ ₢ $ ₫ ₯ € ₠ ₣ ƒ ₴ ₭ ₤ ℳ ₥ ₦ ₧ ₰ £ ៛ ₨ ₪ ৳ ₮ ₩ ¥   ♠ ♣ ♥ ♦   𝄫 ♭ ♮ ♯ 𝄪   © ¼ ½ ¾ Latin: A a Á á À à Â â Ä ä Ǎ ǎ Ă ă Ā ā Ã ã Å å Ą ą Æ æ Ǣ ǣ   B b   C c Ć ć Ċ ċ Ĉ ĉ Č č Ç ç   D d Ď ď Đ đ Ḍ ḍ Ð ð   E e É é È è Ė ė Ê ê Ë ë Ě ě Ĕ ĕ Ē ē Ẽ ẽ Ę ę Ẹ ẹ Ɛ ɛ Ǝ ǝ Ə ə   F f   G g Ġ ġ Ĝ ĝ Ğ ğ Ģ ģ   H h Ĥ ĥ Ħ ħ Ḥ ḥ   I i İ ı Í í Ì ì Î î Ï ï Ǐ ǐ Ĭ ĭ Ī ī Ĩ ĩ Į į Ị ị   J j Ĵ ĵ   K k Ķ ķ   L l Ĺ ĺ Ŀ ŀ Ľ ľ Ļ ļ Ł ł Ḷ ḷ Ḹ ḹ   M m Ṃ ṃ   N n Ń ń Ň ň Ñ ñ Ņ ņ Ṇ ṇ Ŋ ŋ   O o Ó ó Ò ò Ô ô Ö ö Ǒ ǒ Ŏ ŏ Ō ō Õ õ Ǫ ǫ Ọ ọ Ő ő Ø ø Œ œ   Ɔ ɔ   P p   Q q   R r Ŕ ŕ Ř ř Ŗ ŗ Ṛ ṛ Ṝ ṝ   S s Ś ś Ŝ ŝ Š š Ş ş Ș ș Ṣ ṣ ß   T t Ť ť Ţ ţ Ț ț Ṭ ṭ Þ þ   U u Ú ú Ù ù Û û Ü ü Ǔ ǔ Ŭ ŭ Ū ū Ũ ũ Ů ů Ų ų Ụ ụ Ű ű Ǘ ǘ Ǜ ǜ Ǚ ǚ Ǖ ǖ   V v   W w Ŵ ŵ   X x   Y y Ý ý Ŷ ŷ Ÿ ÿ Ỹ ỹ Ȳ ȳ   Z z Ź ź Ż ż Ž ž   ß Ð ð Þ þ Ŋ ŋ Ə ə Greek: Ά ά Έ έ Ή ή Ί ί Ό ό Ύ ύ Ώ ώ   Α α Β β Γ γ Δ δ   Ε ε Ζ ζ Η η Θ θ   Ι ι Κ κ Λ λ Μ μ   Ν ν Ξ ξ Ο ο Π π   Ρ ρ Σ σ ς Τ τ Υ υ   Φ φ Χ χ Ψ ψ Ω ω   {{Polytonic|}} Cyrillic: А а Б б В в Г г   Ґ ґ Ѓ ѓ Д д Ђ ђ   Е е Ё ё Є є Ж ж   З з Ѕ ѕ И и І і   Ї ї Й й Ј ј К к   Ќ ќ Л л Љ љ М м   Н н Њ њ О о П п   Р р С с Т т Ћ ћ   У у Ў ў Ф ф Х х   Ц ц Ч ч Џ џ Ш ш   Щ щ Ъ ъ Ы ы Ь ь   Э э Ю ю Я я   ́ IPA: t̪ d̪ ʈ ɖ ɟ ɡ ɢ ʡ ʔ   ɸ β θ ð ʃ ʒ ɕ ʑ ʂ ʐ ç ʝ ɣ χ ʁ ħ ʕ ʜ ʢ ɦ   ɱ ɳ ɲ ŋ ɴ   ʋ ɹ ɻ ɰ   ʙ ⱱ ʀ ɾ ɽ   ɫ ɬ ɮ ɺ ɭ ʎ ʟ   ɥ ʍ ɧ   ʼ   ɓ ɗ ʄ ɠ ʛ   ʘ ǀ ǃ ǂ ǁ   ɨ ʉ ɯ   ɪ ʏ ʊ   ø ɘ ɵ ɤ   ə ɚ   ɛ œ ɜ ɝ ɞ ʌ ɔ   æ   ɐ ɶ ɑ ɒ   ʰ ʱ ʷ ʲ ˠ ˤ ⁿ ˡ   ˈ ˌ ː ˑ ̪   {{IPA|}} This page is a member of 12 hidden categories ( help ) : Category:CS1 maint: numeric names: authors list Category:All pages needing cleanup Category:Use dmy dates from July 2020 Category:Articles with short description Category:All Wikipedia articles in need of updating Category:Short description matches Wikidata Category:Commons category link is on Wikidata Category:CS1 German-language sources (de) Category:Wikipedia articles in need of updating from March 2025 Category:Cleanup tagged articles with a reason field from September 2025 Category:Articles needing cleanup from September 2025 Category:Wikipedia pages needing cleanup from September 2025 Retrieved from " https://en.wikipedia.org/wiki/Audi_e-tron "

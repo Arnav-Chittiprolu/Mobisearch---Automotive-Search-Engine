@@ -1,0 +1,184 @@
+https://en.wikipedia.org/w/index.php?title=Ford_Mustang_Mach-E&action=edit&section=3
+
+Page notice You are not logged in. Once you make an edit, a temporary account , furnished only with a very basic level of privacy, will be assigned to you automatically and will expire within 90 days. If you log in or create an account , your edits will instead be attributed to a username, and you will be able to receive notifications about your edits for as long as you wish, among other benefits . Content that violates any copyrights will be deleted. Encyclopedic content must be verifiable through citations to reliable sources . Anti-spam check.
+Do not fill this in! == Specifications ==
+
+===2020–22 models===
+{| class="wikitable" style="text-align:center; font-size:90%;"
+|+ Specifications<ref name="Ford_Mach-E">
+{{Cite web|url=https://www.ford.com/buy/mach-e/build-and-price.html?config=WANAB-CGW-2021-CX727#/model|title=Ford Mach-E Build and Price |website=www.ford.com |publisher=Ford|language=en|access-date=March 22, 2020 }}</ref><ref name="Technical_Specifications">{{cite web |url=https://media.ford.com/content/dam/fordmedia/North%20America/US/2020/12/01/Mustang-Mach-E-GT-Performance-Edition-spec-sheet.pdf|title=2021 Ford Mustang Mach-E Technical Specifications |website=[[ford.com]] |access-date=December 6, 2020}}</ref>
+<ref name="2021_Ford_Mustang_Mach-E">{{cite web |url=https://www.ford.com/suvs/mach-e/|title=2021 Ford Mustang Mach-E |website=[[ford.com]] |access-date=December 6, 2020}}</ref>
+<ref name="wltprange1">{{cite web|url=https://ev-database.org/car/1242/Ford-Mustang-Mach-E-SR-RWD|title=Ford Mustang Mach-E SR RWD price and specifications – EV Database|publisher=ev-database.org|accessdate=March 18, 2021}}</ref>
+<ref name="wltprange2">{{cite web|url=https://ev-database.org/car/1244/Ford-Mustang-Mach-E-SR-AWD|title=Ford Mustang Mach-E SR AWD price and specifications – EV Database|publisher=ev-database.org|accessdate=March 18, 2021}}</ref>
+<ref name="wltprange3">{{cite web|url=https://ev-database.org/car/1243/Ford-Mustang-Mach-E-ER-RWD|title=Ford Mustang Mach-E ER RWD price and specifications – EV Database|publisher=ev-database.org|accessdate=March 18, 2021}}</ref>
+<ref name="wltprange4">{{cite web|url=https://ev-database.org/car/1245/Ford-Mustang-Mach-E-ER-AWD|title=Ford Mustang Mach-E ER AWD price and specifications – EV Database|publisher=ev-database.org|accessdate=March 18, 2021}}</ref>
+<ref name="wltprange5">{{cite web|url=https://ev-database.org/car/1246/Ford-Mustang-Mach-E-GT|title=Ford Mustang Mach-E GT price and specifications – EV Database|publisher=ev-database.org|accessdate=March 18, 2021}}</ref>
+!Battery
+! colspan="4" |Standard Range
+! colspan="6" |Extended Range
+|-
+!Powertrain
+! colspan="2" | RWD
+! colspan="2" | AWD
+! colspan="2" | RWD
+! colspan="4" | AWD
+|-
+!Model
+! Select
+! Premium
+! Select
+! Premium
+! Premium
+! California Route 1 AWD
+! Premium
+! First Edition
+! GT
+!GT Performance Edition
+|-
+!Availability
+| colspan="7" |Late 2020
+| Late 2020 (limited quantity)
+| Q3 2021
+|
+|-
+!Battery Capacity
+| colspan="4" |75.7{{Spaces}}kWh (68&nbsp;kWh usable)
+| colspan="6" |98.8{{Spaces}}kWh (88&nbsp;kWh usable)
+|-
+!Range ([[FTP-75|EPA]])
+| colspan="2" |{{convert|230|mi|0|abbr=unit}}
+| colspan="2" |{{convert|211|mi|0|abbr=unit}}
+| colspan="2" |{{convert|300|mi|0|abbr=unit}}
+| colspan="2" |{{convert|270|mi|0|abbr=unit}}
+| {{convert|270|mi|0|abbr=unit}}
+|{{convert|260|mi|0|abbr=unit}}
+|-
+!Range ([[Worldwide Harmonised Light Vehicles Test Procedure|WLTP]])
+| colspan="2" |{{convert|440|km|0|abbr=unit}}
+| colspan="2" |{{convert|400|km|0|abbr=unit}}
+| colspan="2" |{{convert|610|km|0|abbr=unit}}
+| colspan="2" |{{convert|540|km|0|abbr=unit}}
+| colspan="2" | {{convert|500|km|0|abbr=unit}}
+|-
+!0{{En dash}}{{Convert|60|mph|km/h|abbr=unit}} time
+| colspan="2" | 5.8s
+| colspan="2" | 5.2s
+| colspan="2" | 6.1s
+| colspan="2" | 4.8s
+| 3.8s
+|3.5s
+|-
+!Power Output
+| colspan="4" |{{convert|266|hp|PS kW|0|abbr=on}}
+| colspan="2" |{{convert|290|hp|PS kW|0|abbr=on}}
+| colspan="2" |{{convert|346|hp|PS kW|0|abbr=on}}
+| colspan="2" | {{convert|480|hp|PS kW|0|abbr=on}}
+|-
+!Peak Torque
+| colspan="2" |{{convert|317|lbft|Nm|0|abbr=on}}
+| colspan="2" |{{convert|428|lbft|Nm|0|abbr=on}}
+| colspan="2" |{{convert|317|lbft|Nm|0|abbr=on}}
+| colspan="2" |{{convert|428|lbft|Nm|0|abbr=on}}
+|{{convert|600|lbft|Nm|0|abbr=on}}
+|{{convert|634|lbft|Nm|0|abbr=on}}
+|-
+!Top Speed
+| colspan="8" style="text-align:center" | {{Convert|180.|km/h|mph|abbr=unit}}
+| colspan="2" | {{Convert|200.|km/h|mph|abbr=unit}}<ref name="wltprange5" /><ref name=":0">{{Cite web|last=Ford Motor Company|date=September 24, 2020|title=Ford Reveals Blisteringly Quick Mustang Mach-E GT for Europe: Nothing in its Class Accelerates Faster|url=https://media.ford.com/content/fordmedia/feu/en/news/2020/09/24/ford-reveals-blisteringly-quick-mustang-mach-e-gt-for-europe--no.html|url-status=|archive-url=|archive-date=|access-date=January 22, 2021|website=Ford of Europe}}</ref>
+|-
+!DC Fast Charge ([[Charging station#Charging time|DCFC]]) Speed
+| colspan="4" style="text-align:center" | Up to 115&nbsp;kW (Select)<br />Up to 150&nbsp;kW (Premium)
+| colspan="6" style="text-align:center" | Up to 150&nbsp;kW
+|-
+!Cargo Space
+| colspan="10" | {{cvt|64.4|cuft|L}} max volume with rear seats folded, rear trunk, and front trunk ("frunk"). ({{cvt|59.6|cuft|L}} including rear trunk + {{cvt|4.8|cuft|L}} frunk)
+|}
+===2023 models and charging standards change===
+
+For the 2023 model year, Ford began offering LFP battery chemistry in the Mach-E<ref>{{Cite web |title=LFP Batteries to Expand Powertrain Choice for Mustang Mach-E as Ford Increases Battery Production Capacity {{!}} Ford of Europe {{!}} Ford Media Center |url=https://media.ford.com/content/fordmedia/feu/en/news/2023/02/16/lfp-batteries-to-expand-powertrain-choice-for-mustang-mach-e-as-.html |access-date=2025-09-01 |website=media.ford.com}}</ref> and updated battery pack gross capacities. In May 2023, Ford announced integration of the [[North American Charging System]] (NACS) DC fast charging system into their electric vehicles. Existing Ford electric models will be able to connect to the NACS system and its chargers by use of an adapter. Both will thus have access to the extensive NACS charging network with more than 12,000 chargers worldwide.<ref name="ars20230525">{{cite news |date=25 May 2023 |title=Ford EVs will get access to Tesla's Supercharger network in 2024 |url=https://arstechnica.com/cars/2023/05/ford-evs-will-get-access-to-teslas-supercharger-network-in-2024/ |access-date=26 May 2023 |work=[[Ars Technica]]}}</ref>
+
+Ford EVs will eventually have native a NACS charge ports on the vehicle, but as of the 2025 model year Ford still sells the Mach-E with a native CCS1 port in the US market and offers a NACS to CCS1 adapter as an option on 2025 models. It is available to purchase through Ford Dealers for $200 if a vehicle was not optioned with it from the factory.<ref>{{Cite web |title=Ford Fast Charging Adapter (NACS) {{!}} Accessories |url=https://www.ford.com/product/ford-fast-charging-adapter-nacs-p2999073032 |access-date=2025-09-01 |website=Ford.com |language=en}}</ref>
+
+===2024–present models===
+
+In 2024 Ford dropped the California Route One model from the Mach-E lineup<ref>{{Cite web |last=Foote |first=Brett |date=2023-11-03 |title=2024 Ford Mustang Mach-E To Drop California Route 1 Trim |url=https://fordauthority.com/2023/11/2024-ford-mustang-mach-e-to-drop-california-route-1-trim/ |access-date=2025-09-01 |website=fordauthority.com |language=en-US}}</ref> and added the Rally model<ref>{{Cite web |title=Ford Mustang Mach-E Rally: The First Mustang Made to Live on Tarmac and Play in the Dirt |url=https://www.fromtheroad.ford.com/us/en/articles/2023/ford-mustang-mach-e-rally--the-first-mustang-made-to-live-on-tar |access-date=2025-09-01 |website=Ford From the Road |language=en}}</ref> above the GT model. In 2025 Ford also began offering the Sport Appearance Package on the Premium trim level which gave the Premium trim level the front grille and bumper design that was previously only available on the GT model. 
+{| class="wikitable" style="text-align:center; font-size:90%;"
+!Battery
+! colspan="4" |Standard Range
+! colspan="5" |Extended Range
+|-
+!Powertrain
+! colspan="2" |RWD
+! colspan="2" |AWD
+!RWD
+! colspan="4" |AWD
+|-
+!Model
+! Select
+! Premium
+! Select
+! Premium
+! Premium
+!Select
+! Premium
+!GT
+!Rally
+|-
+!Battery Capacity
+| colspan="4" |75.7-78{{Spaces}}kWh (70{{En dash}}72.6&nbsp;kWh usable)
+| colspan="3" |98.8{{Spaces}}kWh (88&nbsp;kWh usable)
+| colspan="2" |98.8{{Spaces}}kWh (91&nbsp;kWh)
+|-
+!Range ([[FTP-75|EPA]])
+| colspan="2" |{{convert|260|mi|0|abbr=unit}}
+| colspan="2" |{{convert|240|mi|0|abbr=unit}}
+|{{convert|320|mi|0|abbr=unit}}
+| colspan="2" |{{convert|300|mi|0|abbr=unit}}
+|{{convert|280|mi|0|abbr=unit}}
+|{{convert|265|mi|0|abbr=unit}}
+|-
+!Range (WLTP)
+| colspan="2" |{{convert|470|km|0|abbr=unit}}
+| colspan="2" |{{convert|435|km|0|abbr=unit}}
+|{{convert|600|km|0|abbr=unit}}
+| colspan="2" |{{convert|550|km|0|abbr=unit}}
+|{{convert|515|km|0|abbr=unit}}
+|{{convert|510|km|0|abbr=unit}}
+|-
+!0{{En dash}}{{Convert|60|mph|km/h|abbr=unit}} time
+| colspan="2" |5.6s
+| colspan="2" |5.2s
+|5.4s
+| colspan="2" |4.8s
+|3.8s
+|3.4s
+|-
+!Power Output
+| colspan="2" |{{convert|264|hp|PS kW|0|abbr=on}}
+| colspan="2" |{{convert|325|hp|PS kW|0|abbr=on}}
+|{{convert|272|hp|PS kW|0|abbr=on}}
+| colspan="2" |{{convert|370|hp|PS kW|0|abbr=on}}
+| colspan="2" |{{convert|480|hp|PS kW|0|abbr=on}}
+|-
+!Peak Torque
+| colspan="2" |{{convert|387|lbft|Nm|0|abbr=on}}
+| colspan="2" |{{convert|500|lbft|Nm|0|abbr=on}}
+|{{convert|387|lbft|Nm|0|abbr=on}}
+| colspan="2" |{{convert|500|lbft|Nm|0|abbr=on}}
+|{{convert|600|lbft|Nm|0|abbr=on}}<br />{{convert|700|lbft|Nm|0|abbr=on}} (Performance Edition)
+|{{convert|700|lbft|Nm|0|abbr=on}}
+|-
+!Top Speed
+| colspan="7" style="text-align:center" | {{Convert|180.|km/h|mph|abbr=unit}}
+| colspan="2" |{{Convert|200.|km/h|mph|abbr=unit}}<ref name="wltprange5" /><ref name=":0" />
+|-
+!DC Fast Charge ([[Charging station#Charging time|DCFC]]) Speed
+| colspan="9" style="text-align:center" | Up to 150&nbsp;kW
+|-
+! rowspan="2" |Cargo Space
+| colspan="9" | ('23-24) {{cvt|56.5|cuft|L}} max volume with rear seats folded, rear trunk and front trunk(frunk). 
+({{cvt|59.6|cuft|L}} including rear trunk + {{cvt|4.8|cuft|L}} frunk)
+|-
+| colspan="9" |('25) {{cvt|56.7|cuft|L}} max volume with rear seats folded, rear trunk.
+(Trunk size not stated for 2025, but was heavily reduced to provide space for Vapor Injection Heat pump introduced for 2025 model)
+|} Edit summary (Briefly describe your changes) By publishing changes, you agree to the Terms of Use , and you irrevocably agree to release your contribution under the CC BY-SA 4.0 License and the GFDL . You agree that a hyperlink or URL is sufficient attribution under the Creative Commons license. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply. JavaScript is required to continue. Turn on JavaScript in your browser settings and refresh the page. Cancel Editing help (opens in new window) Copy and paste: – — ° ′ ″ ≈ ≠ ≤ ≥ ± − × ÷ ← → · § Cite your sources: <ref></ref> {{}}   {{{}}}   |   []   [[]]   [[Category:]]   #REDIRECT [[]]   &nbsp;   <s></s>   <sup></sup>   <sub></sub>   <code></code>   <pre></pre>   <blockquote></blockquote>   <ref></ref> <ref name="" />   {{Reflist}}   <references />   <includeonly></includeonly>   <noinclude></noinclude>   {{DEFAULTSORT:}}   <nowiki></nowiki>   <!-- -->   <span class="plainlinks"></span> Symbols: ~ | ¡ ¿ † ‡ ↔ ↑ ↓ • ¶   # ∞   ‹› «»   ¤ ₳ ฿ ₵ ¢ ₡ ₢ $ ₫ ₯ € ₠ ₣ ƒ ₴ ₭ ₤ ℳ ₥ ₦ ₧ ₰ £ ៛ ₨ ₪ ৳ ₮ ₩ ¥   ♠ ♣ ♥ ♦   𝄫 ♭ ♮ ♯ 𝄪   © ¼ ½ ¾ Latin: A a Á á À à Â â Ä ä Ǎ ǎ Ă ă Ā ā Ã ã Å å Ą ą Æ æ Ǣ ǣ   B b   C c Ć ć Ċ ċ Ĉ ĉ Č č Ç ç   D d Ď ď Đ đ Ḍ ḍ Ð ð   E e É é È è Ė ė Ê ê Ë ë Ě ě Ĕ ĕ Ē ē Ẽ ẽ Ę ę Ẹ ẹ Ɛ ɛ Ǝ ǝ Ə ə   F f   G g Ġ ġ Ĝ ĝ Ğ ğ Ģ ģ   H h Ĥ ĥ Ħ ħ Ḥ ḥ   I i İ ı Í í Ì ì Î î Ï ï Ǐ ǐ Ĭ ĭ Ī ī Ĩ ĩ Į į Ị ị   J j Ĵ ĵ   K k Ķ ķ   L l Ĺ ĺ Ŀ ŀ Ľ ľ Ļ ļ Ł ł Ḷ ḷ Ḹ ḹ   M m Ṃ ṃ   N n Ń ń Ň ň Ñ ñ Ņ ņ Ṇ ṇ Ŋ ŋ   O o Ó ó Ò ò Ô ô Ö ö Ǒ ǒ Ŏ ŏ Ō ō Õ õ Ǫ ǫ Ọ ọ Ő ő Ø ø Œ œ   Ɔ ɔ   P p   Q q   R r Ŕ ŕ Ř ř Ŗ ŗ Ṛ ṛ Ṝ ṝ   S s Ś ś Ŝ ŝ Š š Ş ş Ș ș Ṣ ṣ ß   T t Ť ť Ţ ţ Ț ț Ṭ ṭ Þ þ   U u Ú ú Ù ù Û û Ü ü Ǔ ǔ Ŭ ŭ Ū ū Ũ ũ Ů ů Ų ų Ụ ụ Ű ű Ǘ ǘ Ǜ ǜ Ǚ ǚ Ǖ ǖ   V v   W w Ŵ ŵ   X x   Y y Ý ý Ŷ ŷ Ÿ ÿ Ỹ ỹ Ȳ ȳ   Z z Ź ź Ż ż Ž ž   ß Ð ð Þ þ Ŋ ŋ Ə ə Greek: Ά ά Έ έ Ή ή Ί ί Ό ό Ύ ύ Ώ ώ   Α α Β β Γ γ Δ δ   Ε ε Ζ ζ Η η Θ θ   Ι ι Κ κ Λ λ Μ μ   Ν ν Ξ ξ Ο ο Π π   Ρ ρ Σ σ ς Τ τ Υ υ   Φ φ Χ χ Ψ ψ Ω ω   {{Polytonic|}} Cyrillic: А а Б б В в Г г   Ґ ґ Ѓ ѓ Д д Ђ ђ   Е е Ё ё Є є Ж ж   З з Ѕ ѕ И и І і   Ї ї Й й Ј ј К к   Ќ ќ Л л Љ љ М м   Н н Њ њ О о П п   Р р С с Т т Ћ ћ   У у Ў ў Ф ф Х х   Ц ц Ч ч Џ џ Ш ш   Щ щ Ъ ъ Ы ы Ь ь   Э э Ю ю Я я   ́ IPA: t̪ d̪ ʈ ɖ ɟ ɡ ɢ ʡ ʔ   ɸ β θ ð ʃ ʒ ɕ ʑ ʂ ʐ ç ʝ ɣ χ ʁ ħ ʕ ʜ ʢ ɦ   ɱ ɳ ɲ ŋ ɴ   ʋ ɹ ɻ ɰ   ʙ ⱱ ʀ ɾ ɽ   ɫ ɬ ɮ ɺ ɭ ʎ ʟ   ɥ ʍ ɧ   ʼ   ɓ ɗ ʄ ɠ ʛ   ʘ ǀ ǃ ǂ ǁ   ɨ ʉ ɯ   ɪ ʏ ʊ   ø ɘ ɵ ɤ   ə ɚ   ɛ œ ɜ ɝ ɞ ʌ ɔ   æ   ɐ ɶ ɑ ɒ   ʰ ʱ ʷ ʲ ˠ ˤ ⁿ ˡ   ˈ ˌ ː ˑ ̪   {{IPA|}} This page is a member of 11 hidden categories ( help ) : Category:Articles needing additional references from January 2023 Category:Use American English from December 2022 Category:Use mdy dates from December 2022 Category:United States-centric Category:Articles with limited geographic scope from August 2021 Category:Short description is different from Wikidata Category:Articles with short description Category:All articles needing additional references Category:Commons category link from Wikidata Category:CS1 Spanish-language sources (es) Category:All Wikipedia articles written in American English Retrieved from " https://en.wikipedia.org/wiki/Ford_Mustang_Mach-E "

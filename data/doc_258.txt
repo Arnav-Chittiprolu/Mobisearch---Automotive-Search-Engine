@@ -1,0 +1,3 @@
+https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Lithium-ion+battery
+
+Login processing now uses our domain auth.wikimedia.org . If you are using blocking software, you will need to allow access to this domain to log in. ( technical details ) Username Password Keep me logged in (for up to one year) Log in Help with logging in Forgot your password? Don't have an account? Join Wikipedia Retrieved from " https://auth.wikimedia.org/enwiki/wiki/Special:UserLogin "
