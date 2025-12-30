@@ -28,8 +28,8 @@
 
 ## 🏃‍♂️ How to Run
 
-* **Start App:** Run `python3 app.py` and open `http://127.0.0.1:5000`
-* **Crawl Data:** (Optional) Run `python3 crawler.py` to fetch new documents.
+* **Start App:** Run `python3 app.py` and open `http://127.0.0.1:5001`
+* **Crawl Data:** (Optional) Run `python3 crawler.py` to fetch new documents (documents already provided).
 
 ## 🧠 How It Works
 
