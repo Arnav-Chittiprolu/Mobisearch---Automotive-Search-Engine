@@ -1,0 +1,178 @@
+https://en.wikipedia.org/w/index.php?title=OBD-II_PIDs&action=edit&section=17
+
+Page notice You are not logged in. Once you make an edit, a temporary account , furnished only with a very basic level of privacy, will be assigned to you automatically and will expire within 90 days. If you log in or create an account , your edits will instead be attributed to a username, and you will be able to receive notifications about your edits for as long as you wish, among other benefits . Content that violates any copyrights will be deleted. Encyclopedic content must be verifiable through citations to reliable sources . Anti-spam check.
+Do not fill this in! === Enumerated PIDs ===
+Some PIDs are to be interpreted specially, and aren't necessarily exactly bitwise encoded, or in any scale.
+The values for these PIDs are [[Enumerated type|enumerated]].
+
+==== Service 01 PID {{mono|03}} - Fuel system status<span class="anchor" id="Service 01 PID 03"></span> ====
+A request for this PID returns 2 bytes of data. The first byte describes fuel system #1. The second byte describes fuel system #2 (if it exists) and is encoded identically to the first byte. The meaning assigned to the value of each byte is as follows:
+
+{| class="wikitable"
+! Value !! Description
+|-
+| align="center" | 0 || The motor is off
+|-
+| align="center" | 1 || Open loop due to insufficient engine temperature
+|-
+| align="center" | 2 || Closed loop, using oxygen sensor feedback to determine fuel mix
+|-
+| align="center" | 4 || Open loop due to engine load OR fuel cut due to deceleration
+|-
+| align="center" | 8 || Open loop due to system failure
+|-
+| align="center" | 16 || Closed loop, using at least one oxygen sensor but there is a fault in the feedback system
+|}
+
+Any other value is an invalid response.
+
+==== Service 01 PID {{mono|12}} - Commanded secondary air status<span class="anchor" id="Service 01 PID 12"></span> ====
+A request for this PID returns a single byte of data which describes the secondary air status.
+
+{| class="wikitable"
+! Value !! Description
+|-
+| align="center" | 1 || Upstream 
+|-
+| align="center" | 2 || Downstream of catalytic converter
+|-
+| align="center" | 4 || From the outside atmosphere or off
+|-
+| align="center" | 8 || Pump commanded on for diagnostics
+|}
+
+Any other value is an invalid response.
+
+==== Service 01 PID {{mono|1C}} - OBD standards this vehicle conforms to<span class="anchor" id="Service 01 PID 1C"></span> ====
+A request for this PID returns a single byte of data which describes which OBD standards this ECU was designed to comply with. The different values the data byte can hold are shown below, next to what they mean:
+
+{| class="wikitable"
+! Value !! Description
+|-
+| align="center" | 1 || OBD-II as defined by the [[California Air Resources Board|CARB]]
+|-
+| align="center" | 2 || OBD as defined by the [[United States Environmental Protection Agency|EPA]]
+|-
+| align="center" | 3 || OBD and OBD-II
+|-
+| align="center" | 4 || OBD-I
+|-
+| align="center" | 5 || Not OBD compliant
+|-
+| align="center" | 6 || EOBD (Europe)
+|-
+| align="center" | 7 || EOBD and OBD-II
+|-
+| align="center" | 8 || EOBD and OBD
+|-
+| align="center" | 9 || EOBD, OBD and OBD II
+|-
+| align="center" | 10 || JOBD (Japan)
+|-
+| align="center" | 11 || JOBD and OBD II
+|-
+| align="center" | 12 || JOBD and EOBD
+|-
+| align="center" | 13 || JOBD, EOBD, and OBD II
+|-
+| align="center" | 14 || Reserved
+|-
+| align="center" | 15 || Reserved
+|-
+| align="center" | 16 || Reserved
+|-
+| align="center" | 17 || Engine Manufacturer Diagnostics (EMD)
+|-
+| align="center" | 18 || Engine Manufacturer Diagnostics Enhanced (EMD+)
+|-
+| align="center" | 19 || Heavy Duty On-Board Diagnostics (Child/Partial) (HD OBD-C)
+|-
+| align="center" | 20 || Heavy Duty On-Board Diagnostics (HD OBD)
+|-
+| align="center" | 21 || World Wide Harmonized OBD (WWH OBD)
+|-
+| align="center" | 22 || Reserved
+|-
+| align="center" | 23 || Heavy Duty Euro OBD Stage I without NOx control (HD EOBD-I)
+|-
+| align="center" | 24 || Heavy Duty Euro OBD Stage I with NOx control (HD EOBD-I N)
+|-
+| align="center" | 25 || Heavy Duty Euro OBD Stage II without NOx control (HD EOBD-II)
+|-
+| align="center" | 26 || Heavy Duty Euro OBD Stage II with NOx control (HD EOBD-II N)
+|-
+| align="center" | 27 || Reserved
+|-
+| align="center" | 28 || Brazil OBD Phase 1 (OBDBr-1)
+|-
+| align="center" | 29 || Brazil OBD Phase 2 (OBDBr-2)
+|-
+| align="center" | 30 || Korean OBD (KOBD)
+|-
+| align="center" | 31 || India OBD I (IOBD I)
+|-
+| align="center" | 32 || India OBD II (IOBD II)
+|-
+| align="center" | 33 || Heavy Duty Euro OBD Stage VI (HD EOBD-IV)
+|-
+| align="center" | 34-250 || Reserved
+|-
+| align="center" | 251-255 || Not available for assignment (SAE [[J1939]] special meaning)
+|}
+
+==== Service 01 PID {{mono|51}} - Fuel Type Coding<span class="anchor" id="Fuel Type Coding"></span> ====
+This PID returns a value from an enumerated list giving the fuel type of the vehicle. The fuel type is returned as a single byte, and the value is given by the following table:
+
+{| class="wikitable"
+! Value !! Description
+|-
+| align="center" | 0 || Not available
+|-
+| align="center" | 1 || Gasoline
+|-
+| align="center" | 2 || Methanol
+|-
+| align="center" | 3 || Ethanol
+|-
+| align="center" | 4 || Diesel
+|-
+| align="center" | 5 || [[Liquefied petroleum gas|LPG]]
+|-
+| align="center" | 6 || [[Compressed natural gas|CNG]]
+|-
+| align="center" | 7 || Propane
+|-
+| align="center" | 8 || Electric
+|-
+| align="center" | 9 || [[Bi-fuel vehicle|Bifuel]] running Gasoline
+|-
+| align="center" | 10 || Bifuel running Methanol
+|-
+| align="center" | 11 || Bifuel running Ethanol
+|-
+| align="center" | 12 || Bifuel running LPG
+|-
+| align="center" | 13 || Bifuel running CNG
+|-
+| align="center" | 14 || Bifuel running Propane
+|-
+| align="center" | 15 || Bifuel running Electricity
+|-
+| align="center" | 16 || Bifuel running electric and combustion engine
+|-
+| align="center" | 17 || Hybrid gasoline
+|-
+| align="center" | 18 || Hybrid Ethanol
+|-
+| align="center" | 19 || Hybrid Diesel
+|-
+| align="center" | 20 || Hybrid Electric
+|-
+| align="center" | 21 || Hybrid running electric and combustion engine
+|-
+| align="center" | 22 || Hybrid Regenerative
+|-
+| align="center" | 23 || Bifuel running diesel
+|}
+
+Any other value is reserved by ISO/SAE. There are currently no definitions for [[flexible-fuel vehicle]]. Edit summary (Briefly describe your changes) By publishing changes, you agree to the Terms of Use , and you irrevocably agree to release your contribution under the CC BY-SA 4.0 License and the GFDL . You agree that a hyperlink or URL is sufficient attribution under the Creative Commons license. This site is protected by hCaptcha and its Privacy Policy and Terms of Service apply. JavaScript is required to continue. Turn on JavaScript in your browser settings and refresh the page. Cancel Editing help (opens in new window) Copy and paste: – — ° ′ ″ ≈ ≠ ≤ ≥ ± − × ÷ ← → · § Cite your sources: <ref></ref> {{}}   {{{}}}   |   []   [[]]   [[Category:]]   #REDIRECT [[]]   &nbsp;   <s></s>   <sup></sup>   <sub></sub>   <code></code>   <pre></pre>   <blockquote></blockquote>   <ref></ref> <ref name="" />   {{Reflist}}   <references />   <includeonly></includeonly>   <noinclude></noinclude>   {{DEFAULTSORT:}}   <nowiki></nowiki>   <!-- -->   <span class="plainlinks"></span> Symbols: ~ | ¡ ¿ † ‡ ↔ ↑ ↓ • ¶   # ∞   ‹› «»   ¤ ₳ ฿ ₵ ¢ ₡ ₢ $ ₫ ₯ € ₠ ₣ ƒ ₴ ₭ ₤ ℳ ₥ ₦ ₧ ₰ £ ៛ ₨ ₪ ৳ ₮ ₩ ¥   ♠ ♣ ♥ ♦   𝄫 ♭ ♮ ♯ 𝄪   © ¼ ½ ¾ Latin: A a Á á À à Â â Ä ä Ǎ ǎ Ă ă Ā ā Ã ã Å å Ą ą Æ æ Ǣ ǣ   B b   C c Ć ć Ċ ċ Ĉ ĉ Č č Ç ç   D d Ď ď Đ đ Ḍ ḍ Ð ð   E e É é È è Ė ė Ê ê Ë ë Ě ě Ĕ ĕ Ē ē Ẽ ẽ Ę ę Ẹ ẹ Ɛ ɛ Ǝ ǝ Ə ə   F f   G g Ġ ġ Ĝ ĝ Ğ ğ Ģ ģ   H h Ĥ ĥ Ħ ħ Ḥ ḥ   I i İ ı Í í Ì ì Î î Ï ï Ǐ ǐ Ĭ ĭ Ī ī Ĩ ĩ Į į Ị ị   J j Ĵ ĵ   K k Ķ ķ   L l Ĺ ĺ Ŀ ŀ Ľ ľ Ļ ļ Ł ł Ḷ ḷ Ḹ ḹ   M m Ṃ ṃ   N n Ń ń Ň ň Ñ ñ Ņ ņ Ṇ ṇ Ŋ ŋ   O o Ó ó Ò ò Ô ô Ö ö Ǒ ǒ Ŏ ŏ Ō ō Õ õ Ǫ ǫ Ọ ọ Ő ő Ø ø Œ œ   Ɔ ɔ   P p   Q q   R r Ŕ ŕ Ř ř Ŗ ŗ Ṛ ṛ Ṝ ṝ   S s Ś ś Ŝ ŝ Š š Ş ş Ș ș Ṣ ṣ ß   T t Ť ť Ţ ţ Ț ț Ṭ ṭ Þ þ   U u Ú ú Ù ù Û û Ü ü Ǔ ǔ Ŭ ŭ Ū ū Ũ ũ Ů ů Ų ų Ụ ụ Ű ű Ǘ ǘ Ǜ ǜ Ǚ ǚ Ǖ ǖ   V v   W w Ŵ ŵ   X x   Y y Ý ý Ŷ ŷ Ÿ ÿ Ỹ ỹ Ȳ ȳ   Z z Ź ź Ż ż Ž ž   ß Ð ð Þ þ Ŋ ŋ Ə ə Greek: Ά ά Έ έ Ή ή Ί ί Ό ό Ύ ύ Ώ ώ   Α α Β β Γ γ Δ δ   Ε ε Ζ ζ Η η Θ θ   Ι ι Κ κ Λ λ Μ μ   Ν ν Ξ ξ Ο ο Π π   Ρ ρ Σ σ ς Τ τ Υ υ   Φ φ Χ χ Ψ ψ Ω ω   {{Polytonic|}} Cyrillic: А а Б б В в Г г   Ґ ґ Ѓ ѓ Д д Ђ ђ   Е е Ё ё Є є Ж ж   З з Ѕ ѕ И и І і   Ї ї Й й Ј ј К к   Ќ ќ Л л Љ љ М м   Н н Њ њ О о П п   Р р С с Т т Ћ ћ   У у Ў ў Ф ф Х х   Ц ц Ч ч Џ џ Ш ш   Щ щ Ъ ъ Ы ы Ь ь   Э э Ю ю Я я   ́ IPA: t̪ d̪ ʈ ɖ ɟ ɡ ɢ ʡ ʔ   ɸ β θ ð ʃ ʒ ɕ ʑ ʂ ʐ ç ʝ ɣ χ ʁ ħ ʕ ʜ ʢ ɦ   ɱ ɳ ɲ ŋ ɴ   ʋ ɹ ɻ ɰ   ʙ ⱱ ʀ ɾ ɽ   ɫ ɬ ɮ ɺ ɭ ʎ ʟ   ɥ ʍ ɧ   ʼ   ɓ ɗ ʄ ɠ ʛ   ʘ ǀ ǃ ǂ ǁ   ɨ ʉ ɯ   ɪ ʏ ʊ   ø ɘ ɵ ɤ   ə ɚ   ɛ œ ɜ ɝ ɞ ʌ ɔ   æ   ɐ ɶ ɑ ɒ   ʰ ʱ ʷ ʲ ˠ ˤ ⁿ ˡ   ˈ ˌ ː ˑ ̪   {{IPA|}} This page is a member of 8 hidden categories ( help ) : Category:All pages needing cleanup Category:Articles with short description Category:Short description matches Wikidata Category:Articles with multiple maintenance issues Category:Articles needing cleanup from December 2023 Category:Wikipedia articles that are too technical from December 2023 Category:Articles containing how-to sections Category:All articles that are too technical Retrieved from " https://en.wikipedia.org/wiki/OBD-II_PIDs "
