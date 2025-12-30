@@ -49,8 +49,3 @@ mobi-search/
 ├── indexer.py            # TF-IDF algorithm and Index builder
 ├── requirements.txt      # Python dependencies
 └── README.md             # Project documentation
-
-## 📝 License
-
-* **License:** MIT License
-* **Details:** See `LICENSE` file for more information.
