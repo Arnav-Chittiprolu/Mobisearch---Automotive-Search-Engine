@@ -78,7 +78,7 @@ def search_page():
         
         return render_template("results.html", 
                              query=query, 
-                             results=page_results,  # Only current page results
+                             results=page_results,  
                              page=page,
                              total_pages=total_pages,
                              total_results=total_results)
