@@ -28,8 +28,8 @@
 
 ## 🏃‍♂️ How to Run
 
+* **Crawl Data:** Run `python3 crawler.py` to fetch new documents (Will take some time).
 * **Start App:** Run `python3 app.py` and open `http://127.0.0.1:5001`
-* **Crawl Data:** (Optional) Run `python3 crawler.py` to fetch new documents (documents already provided).
 
 ## 🧠 How It Works
 
@@ -42,7 +42,7 @@
 
 ```text
 mobi-search/
-├── data/                 # Crawled text documents (.txt)
+├── data/                 # Generated locally after running crawler.py
 ├── templates/            # HTML files
 ├── app.py                # Main Flask application
 ├── crawler.py            # Web crawler logic
