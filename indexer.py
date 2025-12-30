@@ -120,7 +120,7 @@ def search(query, documents, inverted_index):
             score = calculate_tf_idf(word, doc_words, inverted_index, len(documents))
             total_score += score
         
-        if total_score > 0:
+        if total_score >= 0.001:
             results.append({
                  "doc_id": doc_id,
                   "url": doc_content[0],

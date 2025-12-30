@@ -7,22 +7,44 @@
     <h1>Search Results - MobiSearch</h1>
     
     <h2>Results for: "{{ query }}"</h2>
-    <p>Found {{ results|length }} results</p>
+    <p>Found {{ total_results|default(0) }} results (Page {{ page|default(1) }} of {{ total_pages|default(1) }})</p>
+    
     {% if results %}
         {% for result in results %}
             <div>
-                <a href="{{ results.url }}" target ="_blank">
+                <a href="{{ result.url }}" target="_blank">
                     {{ result.url }}
                 </a>
                 <p>Document = {{ result.doc_id }}</p>
-                <p>Relevance: {{( result.score)|round|int }}</p>
+                <p>Relevance: {{ (result.score)|round|int }}%</p>
+                
+                <!-- Add preview if available -->
+                {% if result.preview %}
+                    <p>{{ result.preview }}</p>
+                {% endif %}
             </div>
+            <br> 
         {% endfor %}
     {% else %}
         <p>No results found. Try a different search term.</p>
     {% endif %}
+    
+  
+    {% if total_pages > 1 %}
+        <div class="pagination">
+            {% if page > 1 %}
+                <a href="/search?q={{ query }}&page={{ page - 1 }}">← Previous</a>
+            {% endif %}
+        
+            <span>Page {{ page }} of {{ total_pages }}</span>
+        
+            {% if page < total_pages %}
+                <a href="/search?q={{ query }}&page={{ page + 1 }}">Next →</a>
+            {% endif %}
+        </div>
+    {% endif %}
 
-    <a href= "{{ url_for('home') }}">
+    <a href="{{ url_for('home') }}">
         <button type="button">Home Page</button>
     </a>
 </body>
