@@ -7,7 +7,7 @@
     <h1>Search Results - MobiSearch</h1>
     
     <h2>Results for: "{{ query }}"</h2>
-    <p>Found {{ total_results|default(0) }} results (Page {{ page|default(1) }} of {{ total_pages|default(1) }})</p>
+    <p>Top {{ total_results|default(0) }} results (Page {{ page|default(1) }} of {{ total_pages|default(1)}})</p>
     
     {% if results %}
         {% for result in results %}

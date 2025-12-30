@@ -134,7 +134,8 @@ def search(query, documents, inverted_index):
             for result in results:
                 # Convert to percentage, round to integer
                 result["score"] = round((result["score"] / max_score) * 100)
-        # Sort by best matches
+    
+    results = results[:50]
     return results
 
 

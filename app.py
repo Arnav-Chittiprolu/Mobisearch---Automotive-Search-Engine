@@ -58,24 +58,39 @@ def home():
 def search_page():
     """Search results page route"""
     query = request.args.get("q", "")
+    page = request.args.get("page", 1, type=int)
     
     # Handle empty query
     if not query:
-        return render_template("results.html", query=query, results=[])
-    
+        return render_template("results.html", query=query, results=[], page = 1, total_pages = 0)
+
     try:
-        results = search(query, docs, index)
+        all_results = search(query, docs, index)
+        per_page = 25
+        total_results = len(all_results)
+        total_pages = (total_results + per_page - 1) // per_page 
+        total_pages = max(total_pages, 1)
+
+        start_idx = (page - 1) * per_page
+        end_idx = start_idx + per_page
+
+        page_results = all_results[start_idx:end_idx]
         
-        # Optional: Add more info to results
-        for result in results:
-            # Add preview text from document
-            result['preview'] = docs[result['doc_id']][1][:200] + "..."
-        
-        return render_template("results.html", query=query, results=results)
+        return render_template("results.html", 
+                             query=query, 
+                             results=page_results,  # Only current page results
+                             page=page,
+                             total_pages=total_pages,
+                             total_results=total_results)
     
     except Exception as e:
-        logger.error(f"Search error: {e}")
-        return render_template("error.html", message="Search failed. Please try again.")
+            return render_template("results.html", 
+                         query=query, 
+                         results=[], 
+                         page=1, 
+                         total_pages=1,
+                         total_results=0,
+                         error_message="Search failed. Please try again.")
 
 @app.route("/recrawl")
 def recrawl():
@@ -84,13 +99,6 @@ def recrawl():
     docs, index = initialize_search_engine(force_recrawl=True)
     return "Documents recrawled. <a href='/'>Return to home</a>"
 
-@app.errorhandler(404)
-def page_not_found(e):
-    return render_template('404.html'), 404
-
-@app.errorhandler(500)
-def internal_server_error(e):
-    return render_template('error.html', message="An unexpected error occurred."), 500
 
 if __name__ == "__main__":
     app.run(debug=True, host='0.0.0.0', port=5001)
